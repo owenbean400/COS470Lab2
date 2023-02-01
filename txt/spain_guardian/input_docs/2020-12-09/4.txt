@@ -1,0 +1,12 @@
+German biotech firm Bio NTech said on Wednesday that regulation documents related to the Covid 19 vaccine it is developing with Pfizer were " unlawfully accessed " after a cyberattack on Europe ’s medicines regulator . 
+Earlier , the European Medicines Agency ( EMA ) , which is responsible for assessing and approving medicines , medical devices and vaccines for the European Union - said it had been targeted in a cyberattack . 
+It gave no further details . 
+It was not immediately clear when or how the attack took place , who was responsible or what other information may have been compromised . 
+Following the disclosure , Bio NTech said the EMA informed it that " that the agency has been subject to a cyber attack and that some documents relating to the regulatory submission for Pfizer and Bio NTech ’s Covid 19 vaccine candidate ... had been unlawfully accessed " . 
+It added that " no Bio NTech or Pfizer systems have been breached in connection with this incident and we are unaware of any personal data of study participants being accessed " . 
+Messages sent to Bio NTech and Pfizer seeking further details about the breach were not immediately returned . 
+The EMA gave no details about the attack in its earlier statement , saying only that it was investigating the incident with help from law enforcement . 
+" EMA cannot provide additional details whilst the investigation is ongoing . 
+Further information will be made available in due course , " it said in a statement . 
+Hacking attempts against healthcare and medical organisations have intensified during the Covid 19 pandemic as attackers ranging from state backed spies to cyber criminals scramble to obtain the latest information about the outbreak . 
+Reuters has previously documented how hackers linked to North Korea , Iran , Vietnam , China and Russia have on separate occasions been accused of trying to steal information about the virus and its potential treatments . 

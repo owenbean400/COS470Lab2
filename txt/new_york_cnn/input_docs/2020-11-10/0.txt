@@ -1,0 +1,9 @@
+A small minority of places people frequent account for a large majority of coronavirus infections in big cities , according to a new modeling study . 
+The study , published in the journal Nature on Tuesday , suggests that reducing maximum occupancy in such places -- including restaurants , gyms , cafes and hotels -- can substantially slow the spread of illness . 
+The model also found significant racial and socioeconomic disparities in infections . 
+The researchers from Stanford University and Northwestern University used cellphone location data to model the potential spread of Covid 19 within 10 of the largest metropolitan areas in the United States : Atlanta , Chicago , Dallas , Houston , Los Angeles , Miami , New York , Philadelphia , San Francisco and Washington DC . 
+The data , representing the hourly movements of 98 million people , included mobility patterns from March to May . 
+The researchers examined Covid 19 case counts for each area and how often people traveled to " points of interest " including grocery stores , fitness centers , cafes , snack bars , doctor 's offices , religious establishments , hotels , motels and restaurants . 
+The model predicted that " infections are happening very unevenly -- that there are about 10 % of points of interest that account for over 80 % of all infections , and these are places that are smaller , more crowded and people dwell there longer , " Leskovec said at the briefing . 
+The model showed that people living in areas with the lowest income , based on Census data , were more likely to be infected -- partly because of places in their areas tending to be smaller , leading to crowding . 
+The study comes with limitations , including that the model is a simulation -- not a real life experiment -- and the data is based on 10 metropolitan areas and does not capture all places someone could frequent . 

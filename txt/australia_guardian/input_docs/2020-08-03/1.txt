@@ -1,0 +1,28 @@
+The NHS test and trace programme needs to be scaled up in order to reopen schools safely , researchers have said . 
+A new modelling study has implied that reopening schools in September must be combined with a high coverage test trace isolate strategy to avoid a second wave of Covid 19 later this year . 
+The study comes as Australian research found there were " low " levels of coronavirus transmission in schools and nurseries . 
+The modelling study - which simulates various scenarios - examined the possible implications of schools reopening in the UK coupled with broader reopening of society , such as more parents returning to the workplace and increased socialising within the community . 
+The authors found that " with increased levels of testing ... and effective contact tracing and isolation , an epidemic rebound might be prevented " . 
+But in a worst case scenario , a second wave could be 2.3 times higher than the first , according to the study published in The Lancet Child and Adolescent Health . 
+It comes after one scientist suggested that pubs may need to shut to allow schools to reopen . 
+Prof Graham Medley told the BBC on Sunday there may need to be a " trade off " , with the reopening of schools seen as a " priority " for children ’s wellbeing . 
+In the new study , researchers from UCL and the London School of Hygiene and Tropical Medicine ( LSHTM ) simulated what would happen in an " optimistic " scenario assuming 68 % of contacts of people who tested positive could be traced . 
+In the more pessimistic scenario the system had 40 % coverage . 
+But one of the authors , Chris Bonell , professor of public health sociology at LSHTM , said the current testing system has " about 50 % coverage " . 
+He said : Our findings suggests that it might be possible [ to avoid ] a secondary epidemic wave in the UK , if enough people with symptomatic infection can be diagnosed and their contacts traced and effectively isolated . 
+Reopening schools fully in September , alongside reopening workplaces in society , without an effective test , trace , isolating ( TTI ) strategy could result in a second wave of infections between two and 2.3 times the size of the original wave . 
+This is a scenario with model , not a prediction of what is going to happen . 
+It all depends on the other measures and the level of TTI coverage . 
+Currently , TTI is not achieving the levels that we modelled . 
+Looking at the NHS reports from the TTI system , it looks like it ’s about 50 % coverage . 
+The most recent data [ shows ] about 81 % of positives are interviewed , about 81 % of those report contacts and about 75 % of those contacts are reached so overall that equates to coverage of 50 % . 
+It looks from the ONS data like there are about 4,200 new infections per day . 
+And it looks like from the testing data there are about 4,200 testing positive per week . 
+So it looks like about one in seven . 
+So , that ’s not good enough , basically . " 
+But he said the coverage rates were following an " upward trend . 
+The authors said that without appropriate levels of testing and contact tracing , reopening of schools together with gradual relaxing of the lockdown measures are " likely to induce a second wave that would peak in December 2020 if schools open full time in September " . 
+The model assumes that around 70 % of people would return to workplaces once their children returned to school and up to a 90 % increase of mixing within the community with schools reopening . 
+The research from Australia , also published in the same journal , examined real world data from the first wave of Covid 19 in New South Wales . 
+Data from 15 schools and 10 nurseries showed that although 27 children or teachers went to school or nursery while infectious , only an additional 18 people later became infected . 
+The authors concluded : " Children and teachers did not contribute significantly to Covid 19 transmission via attendance in educational settings " . 

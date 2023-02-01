@@ -1,0 +1,6 @@
+A key coronavirus model often cited by the White House has revised its death projection for the United States slightly downward , now predicting that 143,360 people will die by August 4 . 
+That ’s about 3,700 fewer deaths than the model predicted when last updated on May 12 . 
+The shift is small , but it marks a departure from recent increases in the model ’s death projections , which have been largely based on increases in mobility across the country and the easing of social distancing measures . 
+As people have been moving around more – and as social distancing measures have been relaxed – the model has projected more deaths . 
+But in today ’s release , researchers at the Institute for Health Metrics and Evaluation at the University of Washington , who built the model , say that fewer people are forecasted to die in certain parts of the country . 
+That suggests that expected increases in coronavirus cases may not have materialized yet in certain places – at least not to the extent that the model was projecting . 

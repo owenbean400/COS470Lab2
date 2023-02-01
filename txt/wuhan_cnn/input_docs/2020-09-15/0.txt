@@ -1,0 +1,17 @@
+Researchers believe they have found evidence that the novel coronavirus may have been circulating in the US as early as late December , about a month before the current timeline from the US Centers for Disease Control and Prevention shows . 
+Their study , published last Thursday in the Journal of Medical Internet Research , found a statistically significant uptick in clinic and hospital visits by patients who reported respiratory illnesses as early as the week of Dec . 22 . 
+The first known case of Covid 19 in the US was thought to be a patient in Washington who had visited Wuhan , China , according to the CDC . 
+Dr . Joann Elmore and colleagues looked through nearly 10 million medical records from the UCLA Health system , including three hospitals and 180 clinics . 
+Elmore said she started the search after receiving a number of emails from anxious patients in March through her clinic 's patient portal at UCLA . 
+Patients kept asking if the cough they had in January could have been Covid 19 . 
+" With the outpatients , I found a 50 % increase in the percentage of patients coming in complaining of a cough . 
+It came out to over 1,000 extra patients above the average of what we would typically see , " Elmore told CNN . 
+The number of patient visits to the ER for respiratory complaints , as well as the number of people hospitalized with acute respiratory failure between December 2019 and February 2020 , were all up compared to records from the past five years . 
+The uptick in cases started in the final week of December . 
+" Some of these cases could have been due to the flu , some could be for other reasons , but to see these kinds of higher numbers even in the outpatient setting is notable , " Elmore said . 
+Elmore hopes this research shows that real time data collected on diseases like this could potentially help public health experts identify and track emerging outbreaks much earlier and potentially slow or stop the spread of disease . 
+Dr . Claudia Hoyen , an infectious disease specialist at University Hospitals Cleveland Medical Center who did not work on the study , also believes it 's possible Covid 19 may have been in the US much sooner than first realized . 
+Kristian Andersen , a professor in the Department of Immunology and Microbiology at Scripps Research , does not , however . 
+" We know from the SARS Co V 2 genetic data that the pandemic started in late November / early December in China so there 's absolutely no way the virus could have been spreading widely in December 2019 . 
+From the same genetic data we know that widespread transmission did not start in the United States until ( around ) February 2020 , " Andersen said in an email . 
+" The paper is picking up spurious signals and the hospitalizations are more likely from flu or other respiratory diseases , " Andersen wrote . 

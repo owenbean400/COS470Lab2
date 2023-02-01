@@ -1,0 +1,7 @@
+Pennsylvania will roll out a Covid 19 contact tracing app for residents in September , Health Secretary Dr . Rachel Levine announced Tuesday . 
+The app , COVID Alert PA , will use Bluetooth technology and notify Pennsylvanians if they spent 15 minutes or more in close proximity to another person who later tested positive for the virus . 
+The app is voluntary , and will protect user 's identities and locations , Levine said . 
+It will alert someone to exposure without comprising the identity of the person with the virus . 
+The state has worked with researchers at MIT on the product , but it does not replace contact tracers . 
+Some more context : More than 125,570 Pennsylvanians have contracted Covid 19 and almost 7,500 people have died from the virus , according to Levine . 
+Note : These numbers were released by the state public health agency , and may not line up exactly in real time with CNN ’s database drawn from Johns Hopkins University and the Covid Tracking Project . 

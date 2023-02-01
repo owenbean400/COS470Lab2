@@ -1,0 +1,15 @@
+As nations around the world grapple with how to safely reopen schools amid the coronavirus pandemic — or whether to reopen at all — two new studies highlight strategies that could be key in bringing children back to the classroom : scaled up testing for cases , effective tracing of the contacts of those who test positive , and isolation of those who test positive or have symptoms . 
+Researchers in Britain found that schools could reopen safely so long as enough contact tracing is in place . 
+Contact tracing strategies involve enough testing to find cases , isolating those people , then tracking down and quarantining their contacts . 
+And a team in Australia found that even though schools remained open in New South Wales between late January and early April , children and teachers did not contribute significantly to the spread of Covid 19 — because good contact tracing and control strategies were in place . 
+Both studies , published in the journal The Lancet Child & Adolescent Health on Monday , aim to help inform global discussions around reopening schools . 
+The researchers at University College London and the London School of Hygiene and Tropical medicine ran a variety of scenarios to see just how much contact tracing would need to be done for schools to reopen safely . 
+Her team ’s study suggests that , depending on the scenario , between 59 % and 87 % of symptomatic people in the community would need to get tested at some point during their infection , their contacts would need to be traced and those with illness would need to be isolated in order to prevent an epidemic rebound . 
+" It ’s important to note that our model looked at the effects of school reopening alongside the loosening of the restrictions across society , as school reopening is likely to go hand in hand with more adults returning to work and other relaxed measures across society , " Griffiths added . 
+" Therefore , our results are reflective of a broader loosening of lockdown , rather than the effects of transmission within schools exclusively , suggesting an effective test–trace–isolate offers a feasible alternative to intermittent lockdown and school closures to control the spread of COVID 19 . " 
+The Australian researchers found that although 27 children or staff at 25 schools and daycares had attended while infectious with Covid 19 , only 18 other people later became infected . 
+Through contact tracing , 1,448 close contacts were identified and called . 
+They were told to get tested if they showed any symptoms . 
+Overall , 633 did get tested . 
+But just 18 of them tested positive — an attack rate of 1.2 % . 
+It ’s possible some cases were missed , the researchers said , but they said others can use their studies as they decide whether and how to reopen schools . 

@@ -1,0 +1,5 @@
+The reproduction factor for coronavirus has dropped below R01 in Germany , the country‘s center for disease control , the Robert Koch Institute , announced in a new data set published on Friday . 
+That means that a person who has Covid 19 is now infecting fewer than one other person on average . 
+The important R number , which indicates the average number of people who will catch the disease from a single infected person , is currently at 0.7 , the institute said . 
+At a news conference on Wednesday , German Chancellor Angela Merkel said pushing the reproduction number below 1 and keeping it there was key to containing the coronavirus and being able to scale back some of the restrictions on public life . 
+Merkel warned that if the factor rose back to even 1.1 , Germany ’s health care system could be overwhelmed in a matter of months . 

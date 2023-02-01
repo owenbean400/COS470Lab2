@@ -1,0 +1,15 @@
+A new report from Johns Hopkins Bloomberg School of Public Health offers up a national strategy for expanding coronavirus antibody testing across the United States , and recommends that the US Centers for Disease Control and Prevention lead a " consistent , standardized effort " to perform such testing nationwide . 
+Antibody tests , also called serologic tests or serosurveys , look for evidence of an immune response to coronavirus infection and then use that evidence to determine if you have been infected with the virus in the past , even if you never developed symptoms or had an official diagnosis . 
+A serosurvey then can show what proportion of the population has been previously infected . 
+The new report , published online Thursday and authored by eight experts affiliated with Johns Hopkins University , describes the value of serosurveys and provides recommendations for the US government and states on how to effectively perform these tests amid the Covid 19 crisis . 
+The report acknowledged that " budget must be carefully considered " when designing serosurveys , which can be expensive -- possibly costing up to millions of dollars , depending on the size , cost of tests and storing samples , among other factors . 
+Serosurveys for the common flu can cost about $ 3.53 million for one project , for example , and surveillance studies for HIV can cost about $ 708,000 for one project , according to the report . 
+The report also noted that once serosurveys are conducted , the US government should create a central repository or database for the new data being collected to reside -- and the CDC could lead the way in designing the serosurveys and their protocols . 
+" A central repository , similar to that found in Clinical Trials.gov , would be a valuable resource to include all serosurveys , including their methodology , timelines , and purpose . 
+A systematic method of entering data on serosurveys would then allow studies to be easily compared and could also allow individuals to access serosurveys in their area , " the researchers wrote in the report . 
+" Right now , states are designing and initiating their own studies , but having a consistent protocol for carrying out serosurveys would make findings more valuable . " 
+The report added that employers and universities using antibody tests " should be strongly encouraged to register their studies " in that central repository . 
+The report also emphasized that validating serological tests remains critical for ensuring that tests are indeed producing accurate results . 
+In early May , the US Food and Drug Administration announced that the National Cancer Institute would be helping to validate antibody tests on the market -- yet no results from those validation studies so far have been made public , according to the Johns Hopkins report . 
+The report says , " The FDA , NIH , CDC , and NCI should release the results of their antibody test validation study . " 
+Overall , the researchers wrote that " serosurveys can generate valuable data on the true prevalence of SARS Co V 2 infection that can better inform public health decisions at a population level . " 

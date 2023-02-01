@@ -1,0 +1,27 @@
+A closely watched coronavirus model is now forecasting nearly 170,000 coronavirus deaths in the United States by October 1 . 
+The projections paint a grim picture of what could come when summer turns to fall , with a steep rise in daily deaths forecast in September . 
+The model , from the Institute for Health Metrics and Evaluation at the University of Washington , previously only offered projections until August . 
+It was cited often by the White House earlier in the pandemic , and it ’s one of many models currently featured on the US Centers for Disease Control and Prevention website . 
+It now projects that 169,890 people will die from Covid 19 in the US by October 1 , with a possible range of about 133,000 to 290,000 deaths . 
+Daily deaths are expected to decrease through June and July then remain relatively stable through August . 
+But the model forecasts a sharp rise in deaths come September . 
+In the model , projected daily deaths double from 410 on September 1 to 1,018 on October 1 . 
+Notably , though , the model ’s uncertainty increases as time goes on . 
+At the beginning of October , for example , the model offers a range of 96 to 4,382 possible daily deaths . 
+In a press release , IHME said its model is based on data through June 6 . 
+" Large gatherings in some states due to lifting of social distancing restrictions , gatherings on national holidays , and public protests are reflected in the general trend toward increased mobility , " the institute said . 
+The model looks at cell phone data , and increased mobility means people are moving around more . 
+That could lead to more contact and opportunities for coronavirus transmission , but how exactly mobility corresponds with infections remains unclear . 
+Behavioral changes like physical distancing and mask wearing could decrease the risk . 
+IHME says it includes other factors in its model as well , including data on testing , pneumonia trends , mask use , population density , air pollution , altitude , smoking and " self reported contacts . " 
+According to the institute ’s analysis , mask use results in a 50 % reduction in Covid 19 transmission . 
+But IHME ’s data on masks is also self reported , and it may not be representative of the population at large . 
+The IHME model has been closely watched , but it ’s been criticized before for its assumptions and performance . 
+It used to project that US coronavirus deaths would stop this summer , for example , which some experts said was unrealistic . 
+IHME has since made a number of revisions to its methodology . 
+Still , the model is just one of many – and it ’s not the only forecast offering longer term projections . 
+Another model , from independent data scientist Youyang Gu , projects that 201,550 people will die from Covid 19 in the US by October 1 , with a range of about 147,000 to 284,000 deaths . 
+That model , which is also highlighted on the CDC ’s website , projects an increase in daily deaths in July before a decrease in August and September . 
+Last Thursday , an ensemble forecast from the CDC projected more than 127,000 coronavirus deaths in the United States by June 27 . 
+The short term forecast relied on 20 individual forecasts from outside institutions and researchers . 
+The CDC regularly releases new projections , so another ensemble forecast could be released later today . 

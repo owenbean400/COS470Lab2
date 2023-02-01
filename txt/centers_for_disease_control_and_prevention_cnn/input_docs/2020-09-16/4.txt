@@ -1,0 +1,17 @@
+Federal documents released Wednesday provide new details about the government ’s plan to distribute Covid 19 vaccines for free once approved or authorized for emergency use by the US Food and Drug Administration . 
+He noted that vaccines being tested have different transport and storage requirement ; some require a second dose at 21 or 28 days after the first ; and some require different needles and syringes . 
+" I think the message we want you to leave with is we are prepared for all of those uncertainties , " Mango said . 
+Here are key things to know about the plan : Limited early supply A US Centers for Disease Control and Prevention vaccine distribution playbook says that for planning purposes , state and local health agencies should assume " limited COVID 19 vaccine doses may be available by early November 2020 " if a vaccine is authorized or licensed by the FDA , but the supply may increase substantially in 2021 . 
+The initial supply is expected to go to health care workers , other essential workers and people at higher risk for severe illness from Covid 19 . 
+The US Department of Defense , CDC and some parts of HHS are coordinating the supply , production and distribution of vaccines . 
+Vaccine administration sites may be limited early on to target particular populations and storage requirements . 
+Later on , sites could expand to include pediatric and adult health care providers and pharmacies . 
+IT infrastructure The effort requires extensive data monitoring to track vaccines , handle claims and payment , identify who needs a second a dose and to monitor outcomes and potential adverse events . 
+Operation Warp Speed will construct and integrate IT architecture to meet these needs , according to the strategy document . 
+Lt . 
+Gen . Paul Ostrowski from Operation Warp Speed said during the briefing Wednesday that databases to track vaccines already exist at state and pharmacy levels . 
+" The hard part is being able to get the databases to talk with one another , " he said , for example , so that he could get a vaccine at a public health center and then get the correct second dose weeks later , perhaps at a pharmacy in a different location . 
+Cost On cost , the distribution strategy says the objective is " to ensure no one desiring vaccination will face an economic barrier to receiving one . " 
+" The federal government is procuring hundreds of millions of doses of safe and effective vaccines , and has contracted with Mc Kesson for purposes of vaccine distribution , such that no American will be charged for either the COVID 19 vaccine or its distribution , " the strategy document says . 
+Vaccine information campaign The strategy document says an information campaign led by HHS public affairs " will focus on vaccine safety and efficacy , and target key populations and communities to ensure maximum vaccine acceptance . " 
+" Identifying the right messages to promote vaccine confidence , countering misinformation , and targeting outreach to vulnerable and at risk populations will be necessary to achieve high coverage , " it says . 

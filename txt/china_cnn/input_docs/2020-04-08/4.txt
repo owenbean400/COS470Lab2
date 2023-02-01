@@ -1,0 +1,10 @@
+In China , authorities are using technology to track who is likely to be healthy -- and who poses a risk . 
+Residents are each assigned a color coded QR code on their phones -- and that color correlates to what they 're able to do . 
+In Wuhan , even now the lockdown is lifted , residents still need to produce a green QR code to leave their compounds . 
+For those returning to work , they also need to produce a letter from their employer . 
+But if your code is yellow or red , it means you 've been flagged for some reason . 
+If , for instance , you had been on a plane with a person infected with coronavirus , you would be flagged and your code might change color . 
+Those with a yellow or red code might be asked to self isolate -- or even have to go into state quarantine . 
+The whole thing relies on big data , and means local governments have a database of people 's travel history , their health history , and whether they 've been in close contact with anyone who has coronavirus . 
+There 's another potential problem -- different provinces have their own health QR codes , and sometimes they have issues recognizing codes from another region . 
+Watch how the codes work here : 

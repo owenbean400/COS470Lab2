@@ -1,0 +1,3 @@
+New York Attorney General Letitia James called on Apple and Google today to prohibit third party contact tracing apps from abusing consumers ’ data . 
+In letters to the two companies , James said that contact tracing apps created by third parties do not appear to be held to the same standard as apps that work in conjunction with Apple and Google ’s own Bluetooth based Exposure Notification protocol , which must be designed under strict specifications . 
+James urged the companies to take concrete steps to safeguard the data gathered by third party contact tracing apps , including by requiring apps to disclose whether they participate in the exposure notification program and barring them from using targeted advertising . 

@@ -1,0 +1,8 @@
+In a matter of days , mass numbers of workers , students and businesses have increased their use of the internet to work , communicate and stay entertained as coronavirus spreads . 
+Netflix said Thursday it will reduce streaming quality in Europe to keep the internet from collapsing under the strain of unprecedented usage . 
+But Verizon CEO Hans Vestberg said he 's not concerned about the US network 's ability to handle the traffic . 
+" So far ( we ’re seeing ) no congestion in the network , we can handle that , we have built a very robust network , " Vestberg told CNN 's Richard Quest Thursday . 
+The company has noted a shift in the types of applications relying on the network : gaming is up 75 % from the prior week , web traffic is up 20 % , VPN usage is up 30 % and streaming is up 10 % . 
+In less than one week , 100,000 of Verizon 's 135,000 global employees have shifted to remote working arrangements , but Vestberg said the company remains focused on network up keep . 
+" We still have field engineers in the market keeping the network up ... 
+We need to keep these networks up because they are so important in this critical moment and this crisis right now , " he said . 

@@ -1,0 +1,9 @@
+The number of novel coronavirus cases is changing quickly . 
+A real time tracking map shows us just how quickly . 
+The map from Johns Hopkins University 's Center for Systems Science and Engineering follows coronavirus cases across the world . 
+The dashboard collects data from the US Centers for Disease Control and Prevention , the World Health Organization , the European Centre for Disease Prevention and Control , the Chinese Center for Disease Control and Prevention and the Chinese website DXY , which aggregates data from China 's National Health Commission and the CCDC . 
+The results populate a worldwide view of coronavirus cases in real time . 
+See the map here . 
+The clickable map pinpoints regions where patients have been diagnosed with coronavirus -- the more cases in a region , the larger its dot on the map . 
+The map tracks deaths , too , in total and by city . 
+Read the full story here . 

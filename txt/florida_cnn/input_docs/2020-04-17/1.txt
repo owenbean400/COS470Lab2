@@ -1,0 +1,11 @@
+Between 50 and 85 times more people may have been infected with Covid 19 than have been confirmed by health officials in Santa Clara County , California , according to a study released Friday as a preprint . 
+The study used an antibody blood test to estimate how many people had been infected with Covid 19 in the past . 
+Other tests , such as those performed with nasal swabs or saliva , test for the virus ' genetic material , which does not persist long after recovery , as antibodies do . 
+What the numbers say : The study estimated that 2.49 % to 4.16 % of people in Santa Clara had been infected with Covid 19 by April 1 . 
+This represents between 48,000 and 81,000 people , which is 50 to 85 times what county officials recorded by that date : 956 confirmed cases . 
+Similar efforts to estimate local antibody prevalence have launched in places like Miami Dade County , Florida ; 
+San Miguel County , Colorado ; and Los Angeles , California . 
+The National Institutes of Health has a similar effort underway , as well . 
+Bhattacharya said information from these studies will not only give researchers a better idea on antibody prevalence , but they will also vastly improve projections and disease modeling . 
+Experts have said it 's clear there have been more people infected than we 've tested for , but it 's unclear how much higher that number could be . 
+" All of the projection models have this as an input : how many people have been infected today , " Bhattacharya said . 

@@ -1,0 +1,17 @@
+People who have coronavirus infections but never develop symptoms could have weaker immune responses to the virus , a new study suggests . 
+The small study , published in the journal Nature Medicine on Thursday , found that a group of about three dozen Covid 19 patients who were asymptomatic had levels of antibodies that were significantly lower than what was found among patients who had mild symptoms — a finding that suggests the asymptomatic patients had weaker immune responses . 
+The researchers , from various institutions in Chongqing , China , also found that the asymptomatic patients had a significantly longer duration of viral shedding — in which they could spread the coronavirus to others -- than the symptomatic patients . 
+The new study included data on 37 Covid 19 patients who were diagnosed before April 10 and developed no symptoms while isolated at a hospital in the Wanzhou District of Chongqing , China . 
+Their health data , taken from blood samples and other tests , were compared with 37 other Covid 19 patients who had mild symptoms . 
+The data showed that , even though the asymptomatic patients were experiencing no symptoms , they were still shedding the coronavirus — meaning they were infectious — for a median duration of 19 days . 
+That duration of viral shedding was significantly longer than what was found among the patients with mild symptoms , which was 14 days , according to the study . 
+The data also suggested that certain antibody levels among the asymptomatic patients were significantly lower relative to the symptomatic patients . 
+Antibodies , which are proteins that circulate in your blood to help fight off infections , can hold clues to your body 's immune response . 
+Among the asymptomatic patients , 81.1 % had reductions in their neutralizing antibody levels during the eight weeks after being discharged from the hospital — compared with 62.2 % of the symptomatic patients . 
+The researchers found some other differences in the patients ' health data , suggesting that " asymptomatic individuals had a weaker immune response " to the coronavirus . 
+The study had some limitations , including that it involved a small number of patients and antibody testing itself is not always 100 % accurate . 
+But overall , the researchers wrote in their study that the findings suggest there are potential risks to using " immunity passports " based on antibodies and " support the prolongation of public health interventions , including social distancing , hygiene , isolation of high risk groups and widespread testing . " 
+Eleanor Riley , a professor of immunology and infectious disease at the University of Edinburgh in Scotland , said that the new study 's findings are not surprising . 
+" The data are in line with several recently reported studies suggesting that those with mild or asymptomatic infections make a less robust antibody response to SARS Co V 2 than those with more severe disease , " Riley said in a written statement distributed by the UK based Science Media Centre on Thursday . 
+" The really interesting question , to which we do not yet have an answer , is why some people develop such mild infections , " Riley said in part . 
+" It may be that they are genetically less susceptible to infection or that they have some pre existing immunity due to prior infection with related seasonal coronaviruses . " 

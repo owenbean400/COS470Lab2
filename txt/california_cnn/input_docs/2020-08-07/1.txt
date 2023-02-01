@@ -1,0 +1,10 @@
+A glitch in California ’s disease registry system ( Cal REDIE ) has created a backlog of 250,000 to 300,000 records causing an underreporting of some coronavirus cases , California Health and Human Services Secretary Dr . Mark Ghaly said in a briefing on Friday . 
+While the majority of these records may be coronavirus results , Ghaly explained that it includes duplicate records , both positive and negative test results , and records for any other reportable diseases . 
+A server outage on July 25 created a delay in lab records going into the state ’s lab reporting system , Ghaly said . 
+While temporary technical changes were implemented to allow the records to flow into the system more quickly , these changes were not disabled later which caused a further delay in reporting lab data and creating an extensive backlog , he explained . 
+The state also learned that they were not receiving data from one of its largest commercial lab for five days between July 31 through Aug . 4 , " due to a certificate that the state neglected to renew timely , " Ghaly said . 
+According to Ghaly , Gov . 
+Gavin Newsom has directed a full investigation into the issue . 
+Ghaly expects to see a normalization of data in 24 to 48 hours . 
+After working through the backlog , the state will have a better understanding of the statewide epidemiological curve and the future state of hospitalizations . 
+The glitch in the system did not impact any data on hospitalizations or deaths , according to Ghaly who believes the trend line has been " stabilizing and coming down . " 

@@ -1,0 +1,9 @@
+The US Centers for Disease Control and Prevention acknowledged on Friday it had been mixing together results from viral and antibody tests on its website . 
+The CDC says it ’s planning to separate those numbers in the coming weeks , but experts say the current method is unhelpful and potentially misleading . 
+That ’s because antibody tests are not used to diagnose current infections or determine whether someone is potentially contagious . 
+Instead , they indicate whether someone has been exposed to the virus in the past . 
+CDC spokesperson Kristen Nordlund described the agency ’s practice to CNN on Thursday and confirmed it the next day . 
+" Initially , when CDC launched its website and its laboratory test reporting , viral testing ( tests for current infection ) were far more commonly used nationwide than serology testing ( tests for past infection ) , " she said in an email . 
+Combining numbers from antibody and viral tests pushes up the total number of tests conducted in the US . 
+But antibody tests are often intended for the general public – not just people with suspected infections – so they can skew a key indicator of how the pandemic is progressing : the percent of tests that come back positive . 
+The CDC ’s method also makes it appear that the US has greater capacity to test than it really does , at least when it comes to identifying current infections . 

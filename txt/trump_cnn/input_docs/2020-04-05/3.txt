@@ -1,0 +1,11 @@
+The Trump administration wants to use Americans ' smartphone location data to help track and combat the spread of coronavirus . 
+Now , a pair of US data companies are making a public pitch to show just how that kind of technology might work . 
+X Mode and Tectonix focused on a high profile case : tracking location data from the phones of people who visited the beach in Fort Lauderdale , Florida , in March -- among them spring breakers who made national news two weeks ago when they ignored warnings to practice social distancing despite the worsening coronavirus pandemic . 
+The results of tracking data , a map posted on Twitter , showed where people went after they visited the beach , spreading out all across the country to major cities including New York and Chicago , possibly bringing the coronavirus with them . 
+X Mode says it provides location tracking services to app makers for the likes of weather and transit apps . 
+The locations of spring breakers and others with those apps on their phones could have been tracked . 
+X Mode says the data it collects through apps and then provides to advertisers and other companies is anonymized , meaning it does not match individuals to the devices it tracks . 
+The company did not provide the names of the apps their technology is embedded in . 
+" We wanted to showcase the impact of what happens when you do not exercise social distancing and essentially how small our community is , " Josh Anton , X Mode 's CEO , told CNN Business on Tuesday . 
+" Our community 's very connected . " 
+Read more : 

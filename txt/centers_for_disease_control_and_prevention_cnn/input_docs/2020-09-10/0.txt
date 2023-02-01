@@ -1,0 +1,16 @@
+The US greatly undercounted coronavirus cases at the beginning of the pandemic , missing 90 % of them – mostly because of a lack of testing , a new study finds . 
+The research , published in the journal Nature Communications , supports the Centers for Disease Control and Prevention ’s own estimates that 90 % of cases have been missed . 
+The United States may have experienced over 6.4 million cases of COVID 19 by 18 April 2020 , according to a probability analysis published in Nature Communications . 
+In the same period , there were 721,245 confirmed cases . 
+By mid April , the US probably already had more than 6 million cases of coronavirus , the team at the University of California Berkeley estimated . 
+That ’s just about what the current official count is now , four months later . 
+Researchers Jade Benjamin Chung and colleagues used a statistical method known as Bayesian probabilistic bias analysis to account for incomplete testing and less than perfect test accuracy . 
+They went through actual case counts in each state and accounted for likely undercounts to calculate what the true number of cases should have been . 
+In June , CDC Director Dr . Robert Redfield said his agency had likely undercounted cases by a factor of 10 . 
+They said 86 % of the difference was due to incomplete testing , and 14 % due to imperfect test accuracy . 
+Incomplete testing was a result of policy . 
+" For the first few months of the pandemic , the U.S . Centers for Disease Control and Prevention ( CDC ) recommended that physicians prioritize testing hospitalized patients , who tend to have moderate to severe symptoms , " the team wrote . 
+" Yet , evidence from studies that conducted broader testing suggest that 30–70 % of individuals who test positive have mild or no symptoms and that asymptomatic and pre symptomatic individuals can transmit SARS Co V 2 , " they added . 
+" Thus , a substantial number of mild or asymptomatic infections in the U.S . may be undetected . " 
+Even so , most people in the US have yet to have been infected . 
+" Even in a best case scenario in which SARS Co V 2 infection produces immunity for 1–2 years , as is common for other betacoronaviruses , our results contribute to growing consensus that a very small proportion of the population has developed immunity and that the U.S . is not close to achieving herd immunity , " they concluded . 

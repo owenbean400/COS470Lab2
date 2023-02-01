@@ -1,0 +1,17 @@
+Researchers in China say they have successfully cloned antibodies from recovered coronavirus patients , a potential first step in developing a new type of treatment for the virus . 
+In test tubes , the antibodies prevented the binding of the novel coronavirus to its receptor , according to the researchers . 
+Antibodies that block that step – which is critical for infection – could one day be a promising treatment for the virus . 
+But it ’s not clear whether blocking the binding of the virus in a lab means the antibodies could prevent infection in real humans . 
+The researchers published their findings Monday in the medical journal Cellular and Molecular Immunology . 
+They cloned two different antibodies – called 311mab 31B5 and 311mab 32D4 – and said the antibodies " neutralized " the entry of a fake coronavirus into cells . 
+The antibodies could one day be used as " prophylactic and therapeutic agents , " the researchers said , suggesting they could one day be used to both prevent and treat Covid 19 . 
+Using cloned antibodies to treat diseases is not a new concept . 
+The approach has been used to develop experimental treatments for Ebola , using antibodies from animals or people exposed to the virus . 
+The underlying idea – that antibodies can be used as a treatment – is also being tested in trials of so called convalescent plasma . 
+That treatment is somewhat different , though , with people who have recovered from the novel coronavirus giving their antibody filled blood plasma to those who are sick . 
+It remains unclear whether cloned antibodies – such as those developed by the Chinese researchers – could be a successful treatment for the novel coronavirus , and this new research is in its earliest stages . 
+The approach may hold promise , though . 
+In 2018 , the top US infectious disease specialist , Anthony Fauci , wrote in the New England Journal of Medicine that " effective antibodies have become easier to identify , select , optimize , and manufacture . " 
+Writing alongside other experts , Fauci said the treatments , technically called monoclonal antibodies , " are positioned to play a larger role in future public health responses involving the diagnosis , prevention , and treatment of [ emerging infectious diseases ] . " 
+But the antibodies come with a downside : they ’re incredibly expensive . 
+As Fauci wrote , " pragmatic concerns must be addressed – notably cost . " 

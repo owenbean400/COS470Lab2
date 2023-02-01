@@ -1,0 +1,9 @@
+Stay at home orders issued across the United States in the spring appeared to work at keeping people home , new cellphone data from the US Centers for Disease Control and Prevention shows . 
+The researchers also found that in areas where orders were lifted or expired , movement " significantly increased " immediately afterward . 
+" Reduced population movement helps prevent close contact among persons outside the household , potentially limiting exposure to persons infected with SARS Co V 2 , " the researchers from the CDC and the Georgia Tech Research Institute wrote in the CDC ’s weekly report . 
+The study included data on stay at home orders issued by states , the District of Columbia and five US territories between March 1 and May 31 . 
+The researchers , from the CDC and the Georgia Tech Research Institute , examined those orders and analyzed anonymous location data from mobile devices . 
+They used the location data to estimate movements by county , based on the percentage of devices that moved each day beyond 150 meters of its most common nighttime location , which the researchers assumed was the home . 
+Some people could have more than one mobile device , the researchers noted . 
+Plus media attention around Covid 19 and the cancellation of events could also have influenced people to stay home . 
+" These findings can inform future public policies to reduce community spread of COVID 19 , " the researchers wrote . 

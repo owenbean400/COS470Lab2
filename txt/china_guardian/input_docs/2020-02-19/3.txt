@@ -1,0 +1,13 @@
+The coronavirus fatality rate may change over the coming weeks as those who were infected at the start of the epidemic come to the end of their illness . 
+Adam Kucharski , a mathematician and epidemiologist at the London School of Hygiene and Tropical Medicine , said the potential under reporting of cases in China , and the fact that fatalities will continue as the number of new cases slows down , meant the death rate could vary over time . 
+The mortality rate for the new coronavirus is estimated to be around 2.5 % . 
+For comparison , seasonal flu typically has a mortality rate below 1 % . 
+In a explanatory thread on Twitter , Kucharski said : It ’s well established there are likely far more symptomatic cases in China than have been detected/confirmed . 
+If we are calculating ‘ deaths/cases ’ , and we underestimate number of cases , it will cause us to * overestimate * fatality risk . 
+However , he said another factor might mean the current mortality rate of 2 % is an underestimate . 
+As the number of cases starts to slow down , fatalities will climb faster than cases ( because they were infected when the epidemic was growing faster ) . 
+He concludes by saying the two factors could cancel each other out and mean that current estimates for the mortality rate are actually accurate . 
+The widely quoted 2 % fatality for China is calculated incorrectly , because it ’s based on data that is under reported and does not account for delays . 
+But , confusingly , these errors may actually cancel out , leading to an estimate that is right for the wrong reasons . 
+This effect means that as the number of cases starts to slow down , fatalities will climb faster than cases ( because they were infected when the epidemic was growing faster ) . 
+As a result , the ' naive ' fatality estimate seems to get worse , e.g . for Ebola : 6 /  

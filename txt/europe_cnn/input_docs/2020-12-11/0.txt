@@ -1,0 +1,11 @@
+A biotech conference in Boston in February that ’s already been flagged as a Covid 19 superspreading event led to at least 245,000 other cases across the US and Europe , a new genetic fingerprinting study shows . 
+One single case seems to have been responsible for 245,000 other eventual cases , the team at the Broad Institute in Massachusetts reported . 
+Their study finds two particular genetic fingerprints of viruses associated with the conference and then tracks those lineages across the US . 
+One " was exported from Boston to at least 18 US states as well as to other countries , including Australia , Sweden , and Slovakia , " the team , led by Bronwyn Mac Innis , director of pathogen genomic surveillance at the Broad Institute , wrote in the journal Science . 
+One was especially bad . 
+A virus carrying one mutation – a small genetic change they ’ve flagged as C2416T – was apparently carried to the conference by a single person , and ended up infecting 245,000 people . 
+A second viral strain with a mutation known as G26233T ended up in 88,000 people . 
+" A single introduction had an outsize effect on subsequent transmission because it was amplified by superspreading in a highly mobile population very early in the outbreak , before many public health precautions were put in place , " the team wrote . 
+" While Massachusetts accounted for most early spread related to the conference , Florida accounted for the greatest proportion of cases overall , " they added . 
+Correction : An earlier version of this story incorrectly described the number of coronavirus cases that can be linked to the conference . 
+At least 245,000 cases are linked to the mutation , and another 88,000 cases are a subset of those 245,000 cases . 

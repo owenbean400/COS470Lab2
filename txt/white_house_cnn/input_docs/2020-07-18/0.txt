@@ -1,0 +1,9 @@
+The US Food and Drug Administration on Saturday announced it has issued an emergency use authorization that allows Quest Diagnostics to pool samples from up to four individuals to test for Covid 19 . 
+This is the first Covid 19 diagnostic test in the United States to be authorized for use with pooled samples , the agency said in a statement . 
+Sample pooling allows multiple people to be tested at once . 
+The samples are collected and then tested in a pool or " batch " using just one test . 
+If the pool tests positive , this means one of or more of the people tested in that pool may be infected with the virus . 
+Each of the samples would then have to be tested again individually . 
+The FDA last month published guidance for developers that want to make and use tests for pooled samples . 
+In late June , Dr . Anthony Fauci , the director of the National Institute of Allergy and Infectious Diseases , said the White House coronavirus task force was " seriously considering " pool testing as a new strategy to improve testing as the nation experienced a surge in Covid 19 cases . 
+In its statement , the FDA said that while there is a " concern that combining samples may make it more difficult to detect positives , since pooling in the laboratory dilutes any viral material present in the samples , " Quest ’s validation data correctly identified all of the pooled samples that contained a positive sample . 

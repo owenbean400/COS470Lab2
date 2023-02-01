@@ -1,0 +1,8 @@
+The final Covid 19 case count on Tuesday for the US has been corrected by Johns Hopkins University to 39,617 cases and 1,293 deaths . 
+Earlier numbers should not be used . 
+With this fix , Tuesday ’s death count is still the highest one day total since Aug . 19 . 
+Yesterday ’s new case numbers are now in line with recent averages . 
+The US is currently averaging 38,037 new Covid 19 cases a day , which is up 5 % from the previous week . 
+The university explained that the discrepancy was the result of both a data dump in Alabama ’s numbers and a misreading on its part , which led to a double count on a single day . 
+States often have data dumps when they change how to report cases/deaths , and the university normally redistributes those cases to the proper days . 
+The data dump and the dashboard error have both been fixed , the university told CNN . 

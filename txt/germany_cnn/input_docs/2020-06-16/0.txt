@@ -1,0 +1,5 @@
+The German government 's coronavirus warning app went live this morning . 
+The " Corona Warn App " works by notifying users when a person infected with Covid 19 is in close proximity . 
+If a user has tested positive and shares this information with the app , other users will be alerted that they were close to a person with the virus . 
+Due to privacy concerns , the app does not rely on a central hub to store contact information -- instead it will be stored on individual smartphone devices . 
+The app is not mandatory for German citizens . 

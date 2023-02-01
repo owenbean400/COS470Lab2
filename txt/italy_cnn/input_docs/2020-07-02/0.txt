@@ -1,0 +1,25 @@
+A global study has found clear evidence that a new form of the coronavirus has spread from Europe to the US . 
+The new mutation makes the virus more infectious but does not seem to make people any sicker , an international team of researchers reported Thursday . 
+The mutation affects the spike protein — the structure the virus uses to get into the cells it infects . 
+Now the researchers are checking to see if this affects whether the virus can be controlled by a vaccine . 
+Current vaccines being tested mostly target the spike protein . 
+The study , published in the journal Cell , confirms earlier work suggesting the mutation had made the new variant of virus more common . 
+The researchers call the new mutation G614 , and they show that it has almost completely replaced the first version to spread in Europe and the US , one called D614 . 
+What this means : This could be good news , said Lawrence Young , a professor of medical oncology at the UK ’s University of Warwick , who was not involved in the study . 
+" The current work suggests that while the G614 variant may be more infectious , it is not more pathogenic . 
+There is a hope that as SARS Co V 2 infection spreads , the virus might become less pathogenic , " he said in a statement . 
+About the study : The team tested samples taken from patients across Europe and the US and sequenced the genomes . 
+They compared these genome sequences to what ’s been shared publicly . 
+Comparing these sequences helped them draw a map of the spread of the two forms . 
+" Through March 1 , 2020 the G614 variant was rare outside of Europe , but the end of March it had increased in frequency worldwide , " they wrote . 
+Even when the D614 form had caused widespread epidemics , in places such as Wales and Nottingham in England , as well as in Washington state , G614 took over once it appeared , they found . 
+" The increase in G614 frequency often continues well after stay at home orders are in place and past the subsequent two week incubation period , " they added . 
+The new version seems to multiply faster in the upper respiratory tract — the nose , sinuses and throat – which would explain why it passes around more easily , the researchers said . 
+But tests on 1,000 hospitalized coronavirus patients showed those infected with the new version did not fare any worse than those who caught the original strain . 
+Other mutations often go along with the G614 mutation , but it ’s not clear what effect they have . 
+" The earliest sequence we detected that carried all 4 mutations was sampled in Italy on Feb . 20 , " they wrote . 
+" Within days , this haplotype was sampled in many countries in Europe . 
+The G614 mutation can be neutralized by convalescent serum – the blood product taken from people who have recovered from a coronavirus infection , the researchers said . 
+" But it will be important to determine whether the D614 and G614 forms of SARS Co V 2 are differentially sensitive to neutralization by vaccine elicited antibodies or by antibodies produced in response to infection with either form of the virus , " they added . 
+More work is needed , of course , to solidify the findings and to see what the changes mean for the epidemic and for patients , the researchers said . 
+Hear more : 

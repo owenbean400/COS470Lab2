@@ -1,0 +1,13 @@
+A new estimate of the US infection fatality rate from the novel coronavirus puts it at 1.3 % , making it deadlier than the seasonal flu , which in a typical season has a 0.1 % infection fatality rate . 
+Anirban Basu , a professor in the department of pharmacy at the University of Washington in Seattle , used publicly available data on infection numbers and deaths from the novel coronavirus through April 20 . 
+At a county level , the fatality rate ranged from 0.5 % to 3.6 % , Basu reported in the journal Health Affairs on Thursday . 
+The study did not include New York City , which has had the highest number of cases and deaths in the country . 
+The numbers of cases and deaths were changing too fast to include in the study , Basu said . 
+The lowest rate of deaths was in Putnam County , New York -- estimated at 0.5 % . 
+The highest was in King County , Washington at an estimated 3.6 % . 
+By April 20 , there were 134 counties in the US that had reported no Covid 19 deaths . 
+Some context : These are just preliminary figures , Basu said . 
+The case fatality rate is based on the reported number of confirmed cases and confirmed Covid 19 related deaths . 
+Since it is still unclear how many people have actually been infected , the rate is probably not that high , although the authors did create a model that tried to account for some of the unknowns . 
+The model does not account for the number of asymptomatic cases . 
+The numbers will be clearer when there is more testing , Basu said . 

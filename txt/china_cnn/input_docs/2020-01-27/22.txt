@@ -1,0 +1,2 @@
+UPDATE : A previous version of this post contained a graphic that mapped coronavirus cases using raw counts instead of normalized rates . 
+The graphic has been removed . 

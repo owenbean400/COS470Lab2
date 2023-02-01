@@ -1,0 +1,5 @@
+The reproduction of rate of coronavirus in Germany has jumped to 1.79 , the Robert Koch Institute ( RKI ) for public health said on Saturday , far above what is needed to contain the outbreak over the longer term . 
+The rate , published in RKI ’s daily situation report , compares with a value of 1.06 on Friday . 
+A reproduction rate , or ‘ R ’ , of 1.79 means that 100 people who contracted the virus infect , on average , 179 other people . 
+A reproduction of less than 1 is needed to gradually contain the disease . 
+Chancellor Angela Merkel had previously said that lockdown measures might be reintroduced if the transmission rate would accelerate again . 

@@ -1,0 +1,7 @@
+Smoking appears to increase the genetic contribution to Covid 19 infections , a small study suggested . 
+The new coronavirus enters the body by hijacking proteins on the surface of healthy cells , in particular a protein called angiotensin converting enzyme 2 ( ACE2 ) . 
+In adult lungs , just three cigarettes can increase the activity of genes with the information for building ACE2 , according to an international research team led by Alen Faiz of Australia ’s University of Technology Sydney . 
+Faiz told Reuters that ACE2 levels were lower in people who had stopped smoking for more than a month . 
+" Our preliminary data suggest that second hand smoke exposure of 1 year old children ... increased ACE2 expression in their airways , " he said . 
+His team also found higher levels of the ACE2 genes in the nose compared to the lung airways , indicating the nose may be more easily infected . 
+But while it is known that the coronavirus uses ACE2 to break into cells , there is as yet no proven link between higher expression of the genes and the severity of Covid 19 infection , Faiz said . 

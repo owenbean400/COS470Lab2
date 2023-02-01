@@ -1,0 +1,11 @@
+The number of people dying each day in the United States since early April has been consistently more than 10 % higher than in previous years , according to a new report from the Health Care Cost Institute in Washington . 
+The institute connects this rise in daily deaths to the coronavirus pandemic . 
+The Health Care Cost Institute , an independent nonprofit research organization , based its report on data from obituaries for all deaths due to any cause , not just Covid 19 . 
+To better understand the number of daily deaths happening in the United States during the pandemic , researchers at the institute compared the daily count of deaths for each day this year with the average number of deaths on each day for the years 2014 through 2019 . 
+Those estimates for daily deaths are reported at the national and state level , and for New York City . 
+" By mid April , we begin to observe a decline in daily deaths in some areas such as New York and New Jersey ; daily deaths continued to rise in other states such as Illinois , Massachusetts , and Maryland , " the Health Care Cost Institute said . 
+" We will continue to monitor these trends and many others as the data is updated each week . " 
+The institute 's new data , updated weekly , aggregates information on daily deaths in the United States using obituaries from online newspapers , funeral homes , online memorials , direct submissions and other sources through a health data system called Datavant . 
+US health agencies , including the Centers for Disease Control and Prevention , tend to rely on death certificate data to track daily deaths . . 
+Despite using a different primary source of death data , the Health Care Cost Institute said it fonds similar results to CDC estimates of excess deaths . 
+" We hope that this analysis serves as a research resource to those seeking to better understand the effect of COVID 19 on all cause mortality , " the institute said . 

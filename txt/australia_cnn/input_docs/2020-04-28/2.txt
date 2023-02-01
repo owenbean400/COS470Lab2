@@ -1,0 +1,11 @@
+A coronavirus contact tracing app has been downloaded more than 2 million times since it was launched in Australia on Sunday . 
+The COVIDSafe app is voluntary . 
+It 's designed to help health authorities trace people who may have come into contact with someone who has Covid 19 . 
+By Tuesday midday local time , 2.44 million people had downloaded the app , exceeding expectations , Australian health minister Greg Hunt said at a televised news conference . 
+The app , which uses Bluetooth signals to track when people are close to another app user , has raised privacy concerns . 
+On Tuesday , health officials slammed a hoax message circulating online that purported to come from COVIDSafe app , claiming to detect when a user has moved from their nominated location . 
+" The COVIDsafe App has detected you are now + 20km from your nominated home address , " the message reads , according to CNN affiliate 7 News . 
+Health authorities said the app does not collect data on a user 's location . 
+On Tuesday , Hunt said that it would not be physically or legally possible for any other authorities or nations , such as the US , to access the app 's data . 
+" We have locked this down so completely , so thoroughly with the biosecurity rule , with legislation that is coming , the only people who can access the data are the state and territory health officials , " chief medical officer Brendan Murphy told 7 News . 
+To sign up , users need to provide their name , mobile number , postcode and select their age range . 

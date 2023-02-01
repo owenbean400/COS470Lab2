@@ -1,0 +1,21 @@
+People who were 65 or older , men and people of color who were younger than 65 make up disproportionate shares of Covid 19 deaths in the United States , according to a report released Friday by the US Centers for Disease Control and Prevention . 
+Among the 52,166 Covid 19 deaths reported to CDC from February 12 to May 18 , more than 55 % were men , nearly 80 % were older than age 65 . 
+The median age of the people who had died was 78 years old . 
+Information reported to CDC was missing data about underlying health conditions for about 59 % of people who died , so the agency collected supplemental data for about 10,000 deaths . 
+Among those , 60.6 % were male and nearly 75 % were 65 years or older . 
+Thirty five percent were White , 24.9 % were Black , 24.4 % were Hispanic , 6.3 % were Asian , 2.9 % were multiracial or another race and . 1 % were American Indian or Alaskan natives . 
+The median age of death was 71 among Hispanic people , 72 among nonwhite and non Hispanic people , and 81 among White people . 
+Among people younger than 65 who died from Covid 19 , the percent who were Hispanic and nonwhite – 34.9 % and 29.5 % , respectively – were more than twice that of White people , 13.2 % . 
+The CDC called this difference " notable . " 
+The CDC said more research is needed to understand why there is a difference , but one potential factor may be that more Hispanic and nonwhite people are in the service industry and other essential industries that make it difficult to be physically distant from others . 
+Among the 10,647 cases with supplementary data , more than 76 % had at least one underlying medical condition . 
+For people younger than 65 years old , underlying health conditions seemed to play an even greater role ; more than 83 % had an underlying medical condition . 
+The most common underlying health conditions reported among those who died was cardiovascular disease . 
+More than 60 % of those who died had some form of heart problems , nearly 40 % had diabetes , more than 20 % had chronic kidney disease , and just over 19 % had chronic lung disease . 
+Diabetes was the most common underlying condition among people younger than 65 – nearly half in that age group had diabetes . 
+Most people died in hospitals , rather than at home . 
+The median time from the start of the illness to death was 10 days . 
+Among people younger than 65 years , 7.8 % died in an emergency department or at home . 
+" These out of hospital deaths might reflect lack of health care access , delays in seeking care , or diagnostic delays , " the report said . 
+" Health communications campaigns could encourage patients , particularly those with underlying medical conditions , to seek medical care earlier in their illnesses . 
+Additionally , health care providers should be encouraged to consider the possibility of severe disease among younger persons who are Hispanic , nonwhite , or have underlying medical conditions . " 

@@ -1,0 +1,12 @@
+Twitter said it removed more than 170,000 accounts tied to a Beijing backed influence operation that deceptively spread messages favorable to the Chinese government , including about coronavirus . 
+The company suspended a core network of 23,750 highly active accounts , as well as a larger network of about 150,000 " amplifier " accounts used to boost the core accounts ’ content . 
+Twitter , along with researchers who analyzed the accounts , said the network was largely an echo chamber of fake accounts without much further traction . 
+The company also removed two smaller state backed operations which it attributed to Russia and Turkey , both focused on domestic audiences . 
+Twitter said the Chinese network had links to an earlier state backed operation dismantled last year by Twitter , Facebook and Google ’s You Tube that had been pushing misleading narratives about political dynamics in Hong Kong . 
+The new operation likewise focused heavily on Hong Kong , but also promoted messages about the coronavirus pandemic , exiled Chinese billionaire Guo Wengui and Taiwan , the researchers said . 
+Renee Di Resta , at the Stanford Internet Observatory , said the network ’s coronavirus activity ramped up in late January , as the outbreak spread beyond China , and spiked in March . 
+" Accounts praised China ’s response to the virus , while also using the pandemic to antagonise the United States and Hong Kong activists " , she said . 
+Open source researchers at Graphika and Bellingcat had earlier flagged the re emergence of the so called " Spamouflage Dragon " network , after it went dormant following the companies ’ takedowns last summer . 
+The US State Department said in May it had found a network of inauthentic Twitter accounts with " highly probable " linkages to China disseminating false coronavirus claims . 
+Twitter pushed back on the assertions at the time , saying the 5,000 accounts the agency identified included legitimate non governmental organizations and journalists . 
+A Twitter spokeswoman on Thursday said the network it removed was not related to what the State Department had identified . 

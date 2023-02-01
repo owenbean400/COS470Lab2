@@ -1,0 +1,17 @@
+Months of planning culminate this weekend with the first deliveries of Pfizer coronavirus vaccine doses – and the UPS executive overseeing his company ’s efforts says it is an emotional experience . 
+Wheeler said the process that soon gets underway at the Pfizer facility in Kalamazoo , Michigan , will be highly choreographed . 
+" We have people embedded at the Pfizer location in Michigan , and they will be helping Pfizer to dispatch packages , " he explained . 
+" They will be loaded onto a trailer , a dedicated trailer , with an escort . 
+They will drive five hours to Louisville , Kentucky , and then there 'll be dispatched around to the states that we ’re assigned . " 
+In Louisville , many of the shipments will be loaded onto UPS planes . 
+Wheeler said the company ’s extensive delivery network means it can ship doses overnight for delivery by 10:30 the next morning . 
+UPS is handling delivery to sites on the Eastern side of the U.S . 
+The company is also creating 24,000 pounds of dry ice daily that are packed into special Pfizer containers to keep the vaccine at the required sub zero temperature . 
+" The day after the vaccines arrive , we deliver 40 pounds of dry ice to replenish what is sublimating from the box , " Wheeler said . 
+" The Pfizer package is good for 10 days with it with the 50 pounds of dry ice in it . 
+And with the 40 pounds that we send the following day . 
+It 'll give you another several days if necessary so the box becomes the storage medium at the dosing center . " 
+More details : Tracking devices on each container and truck send real time information back to the UPS command center in Louisville . 
+The tracking tags have four radios and a Bluetooth device that transmit data including GPS location , " atmospheric pressure , motion detection , light detection , and of course temperature , " he said . 
+That data gives the company insight into the condition of each package and the dry ice inside of it . 
+" We have eyes on these shipments all the way from origin to the final dosing destination , " he explained . 

@@ -1,0 +1,10 @@
+Operation Warp Speed says its vaccine allocation IT platform , Tiberius , can track inventory at zip code level . 
+Maddox said the system pulls material from multiple federal databases into one place , down to zip code specific hospitalization data and vaccine inventory . 
+The system can help compute each jurisdiction 's vaccine allowance based on population and the number of doses available , Maddox said . 
+States can then place orders with OWS weekly for any amount of doses , up to their maximum allocation . 
+The system can also populate a microplanning application for each state or jurisdiction . 
+Tiberius contains information about hospitals , pharmacies , long term care facilities , ultra cold storage locations , and Covid 19 case rates and death rates broken down by zip code or county , to help states decide how much vaccine they need . 
+All pertinent information in the federal data inventory has been made available to states in the microplanning portion of the system -- including the Census Bureau , the HHS Protect data hub , and the CDC 's VTrck S database , Maddox said . 
+Once states place an order , the platform can track where vaccine shipments are physically located . 
+" We already have agreements in place with Fed Ex , UPS , Mc Kesson to bring this data into the platform , " he said . 
+" Jurisdictions -- all 64 plus entities -- have at least one account to receive and view their allocations , " he said . 

@@ -1,0 +1,7 @@
+The video conferencing platform Zoom announced on Wednesday it has reversed course and decided to provide end to end encryption to all customers , not just those who pay for a subscription . 
+The video platform exploded in popularity after coronavirus related lockdowns and is now seeing as many as 300 million daily users , up from just 10 million in December . 
+Zoom faced criticism from civil rights groups for its plans to exclude free calls from encryption services , which secure communication so it can only be read by the users involved . 
+The company ’s CEO , Eric Yuan , had explained that Zoom planned to exclude free calls from end to end encryption to make sure it is still possible to " work together with FBI , with local law enforcement in case some people use Zoom for a bad purpose " . 
+But " basic security should not be a premium feature that ’s only available to wealthy individuals and big corporations , " Evan Greer , the deputy director at the digital rights advocacy group Fight for the Future , said at the time . 
+Zoom changed its decision after speaking with civil liberties organizations , child safety advocates , encryption experts , government representatives , and users , Yuan said in a statement announcing the change . 
+The enhanced encryption will be available starting in July . 

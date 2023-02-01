@@ -1,0 +1,6 @@
+Singapore is distributing a digital contact tracing device to people who do not use smartphones , as part of the city state 's efforts to contain coronavirus . 
+The Trace Together Tokens are aimed at vulnerable seniors who are not digitally connected but are at higher risk from coronavirus , according to a statement from the Smart Nation and Digital Government Office ( SNDGO ) . 
+Distribution started on Sunday and the tokens aim to protect people without smartphones in the same way as the existing Trace Together app , which uses Bluetooth to alert users if they have been in contact with someone who has tested positive for coronavirus . 
+The tokens send Bluetooth signals to other tokens , or smartphones with the app , and each one uses a personalized QR code . 
+The tokens have an estimated battery life of 6-9 months and do not need to be charged , plus they 're small and light enough to hang from a lanyard . 
+Read the full story here : 

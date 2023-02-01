@@ -1,0 +1,9 @@
+The World Health Organization has updated its ongoing guidance on Covid 19 medications to advise against using the antiviral drug remdesivir to treat hospitalized patients , no matter how severe their illness may be . 
+According to the update , published in the medical journal the BMJ on Thursday , current evidence does not suggest remdesivir affects the risk of dying from Covid 19 or needing mechanical ventilation , among other important outcomes . 
+WHO 's new update comes about a month after the company Gilead Sciences , the maker of remdesivir , announced that the US Food and Drug Administration approved remdesivir for the treatment of coronavirus infection . 
+The drug became the first coronavirus treatment to receive FDA approval . 
+Remdesivir may have received FDA approval but not WHO 's recommendation because of emerging research -- which initially showed some benefit against Covid 19 , but as more data accumulate , that appears to be changing , said Dr . Amesh Adalja , senior scholar at the Johns Hopkins Center for Health Security , who was not involved in the WHO guidance . 
+" The fact that it was an antiviral that showed some benefit in certain trials — but not in all trials -- was enough to push people to want to use it because we had no tools , but I do think it probably will be supplanted shortly , " Adalja said , adding that the indication for drugs can change over time . 
+Some context : WHO convened an international panel of 24 experts and four survivors of Covid 19 to review data and make recommendations . 
+The recommendation against remdesivir was based on data from four randomized trials including 7,333 people hospitalized with Covid 19 . 
+" The panel concluded that most patients would not prefer intravenous treatment with remdesivir given the low certainty evidence , " researchers from various institutions around the world wrote in the updated WHO guideline . 

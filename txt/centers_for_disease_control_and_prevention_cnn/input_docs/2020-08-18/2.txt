@@ -1,0 +1,20 @@
+The US Centers for Disease Control and Prevention has launched a new program that will help monitor the spread of Covid 19 using sewage . 
+The new National Wastewater Surveillance System will help local public health leaders better understand the extent of the spread of the pandemic in their communities , the CDC said in an update on its website Monday . 
+Sewage from house and workplaces can be tested for genetic material from the novel coronavirus . 
+Studies show the virus can be found in feces from people who are sick and also from people who do not yet have Covid 19 symptoms . 
+About 80 % of the US is on some kind of municipal sewer system , the CDC said . 
+With delays in testing and limited contact tracing , this would be a good complement to those methods and may give a good big picture of how widespread the disease is . 
+Depending on how frequently the wastewater is tested , sewage can be a leading indicator of changes in the burden of the disease in the community , the CDC said . 
+That would mean the community might have a few extra days to prepare for surge capacity in hospitals or to make lockdown decisions . 
+Learning from history : This is not the first time the US has used sewage testing to monitor disease . 
+Studies have shown it was an effective method to monitor for disease during polio outbreaks . 
+This method does have some limitations . 
+It cannot capture information from septic systems . 
+That means it would miss data from more than 60 million people who rely on septic . 
+In New Hampshire , half of all homes have individual systems . 
+About a third of all new development is also served by septic or some other kind of decentralized system , according to the Environmental Protection Agency . 
+This method cannot surveil decentralized systems like those used in universities or prisons that treat their waste . 
+Several prisons have been hotspots for Covid 19 infections . 
+It ’s also unclear if low levels of infection in a community could be captured this way . 
+The CDC said it is not possible to rely on wastewater data to predict the number of individual infections . 
+The CDC said it is working on a portal for local leaders to submit their wastewater testing data into a national database and the CDC will release data as it gets it . 

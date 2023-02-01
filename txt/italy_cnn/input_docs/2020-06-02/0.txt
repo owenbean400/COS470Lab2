@@ -1,0 +1,9 @@
+A voluntary contact tracing app has been launched in Italy after being approved by the national body which regulates privacy , Italian Health Ministry said on Monday . 
+The app , called Immuni , " respects the Italian and European privacy norms " the Health Ministry statement says , and it can be downloaded for free from the Apple and Google stores . 
+Using Bluetooth technology , smartphones , which download the app , will exchange random codes , but not information that could identify devices ' owners such as names , emails , phone numbers or GPS data . 
+When two smartphones which have installed the app and have Bluetooth activated are in proximity , they store each other 's random code , taking note of the length of the meeting and the distance among the two devices . 
+If the device ’s owner tests positive for Covid 19 , with their consent a health care operator will transfer their device 's encrypted code to a server , and then those individuals who also downloaded the app and have been is close contact with the infected person will receive a notification , the Health Ministry statement explained . 
+Users must be at least 14 years old to use the Immuni app , and those between 14 and 18 must have the authorization of at least one parent or legal guardian to download it . 
+Bending Spoons said " enormous focus " was placed on the protection of privacy . 
+All data is encrypted and will be deleted " when no longer relevant " and in any case " no later than December 31 , 2020 , " the app webpage said . 
+The first four regions to roll out the app starting June 8 will be Abruzzo , Liguria , Marche and Puglia , according to the Italian Health Ministry . 

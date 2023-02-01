@@ -1,0 +1,12 @@
+Surveillance for coronavirus is hit and miss in the US and needs to be coordinated so every state is reporting the same data , according to a new report from the University of Minnesota . 
+" The country ’s approach to surveillance thus far has been lacking in consistent methods and strategy , which has hamstrung response efforts , " the report from the university ’s Center for Infectious Disease Research and Policy ( CIDRAP ) says . 
+" The lack of reliable and comparable national data on Covid 19 makes it difficult to develop , assess , and evaluate public health policies across the country . 
+Much of this is the result of a patchwork of variable policies for testing and surveillance in different jurisdictions , despite recommendations from the CDC for standardized reporting , " it adds . 
+" For example , not all states report probable cases in addition to confirmed cases and deaths , and some states combine results of positive molecular tests with positive antibody tests , while others do not . " 
+Plus , there is no consistent monitoring of who has antibodies against coronavirus , which would help efforts to tell how many people have already been infected . 
+" It would be very useful to also distinguish tests performed in people who have symptoms versus people who do not have symptoms , " the report adds . 
+The CIDRAP report finds a lack of uniform and consistent data makes testing information less useful than it should be . 
+" Testing is a key feature of an effective surveillance system , but the lack of consistent , widespread access to testing within and between states complicates the meaningful interpretation of data at the state and national levels , " it says . 
+" State level data do not always include critical elements , such as the number of cases , hospitalizations and deaths , nor additional important demographic information such as age , gender , race/ethnicity and location . " 
+The report recommends a national standardized approach to coronavirus surveillance . 
+" With the fall influenza season approaching , federal , state , local and territorial health officials need to begin now to determine strategies for coordinating surveillance for both COVID 19 and influenza , " it says . 

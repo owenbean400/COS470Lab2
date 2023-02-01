@@ -1,0 +1,7 @@
+US coronavirus hotspots had disproportionately high numbers of cases among communities of colour , according to an analysis by the Centers for Disease Control and Prevention ( CDC ) . 
+The report contributes to a growing body of evidence that existing health and social inequalities experienced by communities of colour raised the risk of infection and death from Covid 19 , the CDC said . 
+In 79 counties identified as hotspots that also had information on race , 96.2 % had disparities in Covid 19 cases in one or more minority racial and ethnic groups between February and June , researchers concluded . 
+The largest disparities were reported among Hispanic people in hotspot counties ( 3.5 million people ) , followed by African Americans ( 2 million ) . 
+Asian populations were disproportionately affected by Covid 19 in a small number of hotspot counties , but the Asian racial category is broad and further analyses might provide additional insights , the researchers said . 
+The study did not assess disparities in Covid 19 related deaths because of the lack of available county level mortality data , but the researchers said existing national analyses show there exists differences in Covid 19 deaths and similar patterns were likely to exist at the county level too . 
+Apart from long standing discrimination and social inequities , other factors such as economic and housing policies , employment in meat packing , agriculture , service and health care sectors , and living in multifamily households could increase risk for transmission , the researchers said . 

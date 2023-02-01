@@ -1,0 +1,16 @@
+As the United States continues to reopen , inaccurate diagnostic tests may undermine the country 's ability to keep the Covid 19 pandemic from spreading , experts on health policy argued Friday in the New England Journal of Medicine . 
+Some antibody tests , the tests that can identify if someone had a prior infection , have come under criticism from the US Centers for Disease Control and Prevention and the US Food and Drug Administration for being inaccurate , but the diagnostic tests used in this pandemic have also had their share of problems , the experts argued . 
+Someone who has a false positive on a coronavirus test may quarantine unnecessarily and resources would be wasted on unnecessary contact tracing . 
+A false negative diagnostic test may be an even bigger problem , since it might mean that someone who is asymptomatic does not stay home and will continue to spread the disease , argued Dr . Steven Woloshin of the Center for Medicine in the Media at the Dartmouth Institute for Health Policy and Clinical Practice , Dr . Aaron S . Kesselheim , who founded the Harvard Program on Regulation , Therapeutics , and Law and colleagues . 
+The tests can be inaccurate by either giving a false positive result or a false negative . 
+One study that has not been peer reviewed yet in patients in China found false negatives ranging between 2 to 29 % . 
+Another found that 40 % of throat samples taken from hospitalized patients in the study in China were false negatives . 
+The sensitivity rates of these tests used in these studies was about 70 % . 
+Sensitivity is the ability to correctly identify who is infected . 
+At this level , with a pretest probability of 50 % , the post test probability with a negative test would be 23 % - and that ’s " far too high to safely assume someone is uninfected , " they wrote . 
+Call for action : The authors urge the FDA and clinical researchers to review the accuracy of the tests currently on the market . 
+They also want manufacturers to provide details about how they proved the test sensitivity was accurate . 
+Measuring test sensitivity in asymptomatic people should be an " urgent priority " and , they say , doctors should keep in mind that negative results even on tests that are considered highly sensitive cannot rule out infection if the pretest probability is high . 
+So doctors should not trust negative results if they do not match up with the symptoms they are seeing in patients . 
+If the tests were perfect , a positive test would mean someone carries the virus and a negative test would mean that they do not . 
+Yet with imperfect tests , we can only assume that a person is " less likely to be infected , " the authors argue - and that ’s not enough to help keep the pandemic from spreading further . 

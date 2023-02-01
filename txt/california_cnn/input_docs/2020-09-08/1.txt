@@ -1,0 +1,8 @@
+Stay at home orders — which led to people spending more time in their homes and reducing the amount they traveled — seem to be associated with a reduction in spread of Covid 19 , according to new research published Tuesday in the journal JAMA Network Open . 
+" These findings suggest that stay at home social distancing mandates , when they were followed by measurable mobility changes , were associated with reduction in Covid 19 cases , " said the researchers , from the Department of Geography at the University of Wisconsin Madison . 
+The researchers used location data from more than 45 million cell phones between March 11 and April 10 to work out daily travel distance and time spent at home across all 50 states . 
+These factors were used to look at the degree to which social distancing mandates were followed , and the association between mobility and Covid 19 cases . 
+Their results " suggest that stay at home orders were associated with reduction of the Covid 19 pandemic spread and with flattening the curve . " 
+The research also found that case increase rates in the five states with the highest level of infection at the time — New York , New Jersey , Michigan , California and Massachusetts — slowed down after the stay at home orders were implemented . 
+In states where confirmed cases increased faster people generally reduced the distance they were traveling daily quicker , and the results suggest that in states with higher case increase rates , the amount of time people spent at home was longer . 
+Remember : The research does have some limitations , including the fact that other control measures — such as mask wearing — could have played a part in the reduction of cases . 
