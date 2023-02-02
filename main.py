@@ -169,4 +169,5 @@ def search_directory(directory):
                                 print(f"{file_path}: {normalized}")
 
 
+
 search_directory("txt")
