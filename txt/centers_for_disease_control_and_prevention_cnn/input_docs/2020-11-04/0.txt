@@ -1,7 +1,0 @@
-Coronavirus antigen tests can yield false positives , the US Food and Drug Administration ( FDA ) warned clinical lab staff and health care providers on Tuesday . 
-This includes " when users do not follow the instructions " for using antigen tests for rapid detection of the virus , the FDA said . 
-Antigen tests are not as accurate as molecular , polymerase chain reaction ( PCR ) tests , but they are faster and are often used as a screening tool for the virus in settings like nursing homes . 
-False positives can occur with any laboratory test , the FDA said , and labs should expect them when screening large populations with low rates of infection , even when using a very accurate test . 
-To ensure accurate reporting , the FDA advised providers and lab staff to follow guidance from the US Centers for Disease Control and Prevention ( CDC ) when performing tests . 
-The FDA noted that it is working with manufacturers to ensure test instructions are as clear as possible . 
-The FDA advised that , when necessary , providers should consider the potential occurrence of false positives and follow up with molecular tests . 

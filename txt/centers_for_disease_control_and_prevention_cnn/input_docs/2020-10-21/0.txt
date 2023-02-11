@@ -1,9 +1,0 @@
-More than 2.5 million years of life have been lost in the United States due to the coronavirus and each person who had a Covid 19 associated death lost over 13 years , according to a preprint study posted Tuesday on Med Rxiv . 
-Med Rxiv is a preprint server , which means that the study has not year been peer reviewed or published in a medical journal . 
-" In this study I have attempted to quantify the extent of life lost so far in this pandemic as of October 3 , 2020 where data for the age and sex distribution of over 194,000 Covid 19 associated deaths was available , " said the preprint , authored by Stephen Elledge , a professor of genetics at Harvard Medical School and Brigham and Women ’s Hospital . 
-Elledge found that a total of 2,572,102 years of life were lost due to 194,087 deaths . 
-Breaking it down by gender , men lost 1,461,662 years from 104,896 deaths and females lost 1,110,440 years from 89,191 deaths . 
-Each person lost , on average , 13.25 life years per Covid 19 associated death . 
-Males lost slightly more years of life at 13.93 compared with females losing 12.45 . To work out the number of years of life lost , Elledge used data from the Social Security Administration to look at normal life expectancies , and data from the US Centers for Disease Control and Prevention ( CDC ) on Covid 19 deaths per 10 year age group . 
-The study comes to similar conclusions as others that looked at life years lost , it says , although previous studies project slightly fewer years lost per death , which could be to do with the method of analysis or the fact that they were conducted earlier in the pandemic . 
-Elledge wrote that his research has potential sources of error , such as the distribution of deaths within 10 year spans provided by the CDC , the lack of distribution of ethnicities in fatality data and the effect of comorbidities on life expectancy of Covid 19 deaths . 

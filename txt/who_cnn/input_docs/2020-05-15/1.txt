@@ -1,4 +1,0 @@
-Coronavirus models that predict the rise and fall of infections help countries plan ahead and prepare , Dr . Maria Van Kerkhove , the World Health Organization ( WHO ) technical lead on Covid 19 , said Friday . 
-Van Kerkhove said the estimates help " get countries ready for how to build the workforce : how many contract tracers do we need , how many clinicians and nurses and medical professionals do we need , how many beds do we need in particular ICU or oxygen support , ventilatory support , treatment centers , et cetera ? " 
-Models work best when they help countries and communities prevent their forecasts from coming to fruition . 
-" We also know that there are tools that we have that could prevent these numbers from becoming realities , " she said . 

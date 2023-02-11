@@ -1,6 +1,0 @@
-The coronavirus reproduction rate in Germany jumped to 2.88 on Sunday , up from 1.79 a day earlier , the Robert Koch Institute ( RKI ) for public health said . 
-This increase brings infections over the level needed to contain the rate over the long term , Reuters reports . 
-A reproduction rate , or ‘ R ’ , of 2.88 means that out of 100 people who contracted the virus , a further 288 other people will get infected . 
-A rate of less than one is needed to gradually contain the disease . 
-The number represents a sharp increase from 1.06 on Friday , and is based on RKI ’s moving 4 day average data , which reflects infection rates one to two weeks ago . RKI said outbreaks have been reported in nursing homes and hospitals , institutions for asylum seekers and refugees , in meat processing plants and logistics companies , among seasonal harvest workers and in connection with religious events and family gatherings . 
-Here ’s an explainer on the R number : 

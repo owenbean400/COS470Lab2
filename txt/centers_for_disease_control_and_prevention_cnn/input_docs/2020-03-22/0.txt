@@ -1,7 +1,0 @@
-The US Centers for Disease Control and Prevention ( CDC ) has a new method to help people check whether they may have symptoms : An online bot nicknamed Clara . 
-The CDC says its bot is not there to diagnose diseases -- instead , it 's intended is to help users make decisions about seeking appropriate medical care . 
-Clara asks a series of questions to establish the level of illness being experienced by the user ( or the person they are asking questions on behalf of ) . 
-For instance , Clara might ask if they are gasping for air or suffering from shortness of breath . 
-It also establishes their location within the US , whether they are in a long term care facility and if they have been in contact with someone with Covid 19 Recommendations range from calling 911 immediately to staying at home and calling their health care provider within 24 hours . 
-Clara also points to the relevant state 's health department for further advice . 
-Read the whole story here . 

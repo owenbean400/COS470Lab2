@@ -1,6 +1,0 @@
-Google Maps will soon show how prevalent coronavirus is in geographic areas with a new color coded update . 
-Beginning this week , the Maps app will display seven day averages of new Covid 19 cases per 100,000 people . 
-The chosen areas will show if cases are increasing or decreasing and be shaded with one of six colors to signify how many new cases were reported Google is pulling data from three sources : Johns Hopkins University , the New York Times , and Wikipedia . 
-They receive their data from the World Health Organization and other public or government health organizations . 
-Information is available for all 220 countries that Google Maps works in . 
-Read the full article here . 

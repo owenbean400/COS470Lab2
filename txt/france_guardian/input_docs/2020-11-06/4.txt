@@ -1,7 +1,0 @@
-Common cold antibodies could yield clues to Covid 19 behaviour , Nancy Lapid at Reuters writes : Among people who were never infected with the new coronavirus , a few adults – and many children – may have antibodies that can neutralise the virus , researchers reported on Friday in Science . 
-Among 302 such adults , 16 ( 5.3 % ) had antibodies , likely generated during infections with " common cold " coronaviruses , that reacted to a specific region of the spike protein on the new virus called the S2 subunit . 
-Among 48 children and adolescents , 21 ( 43.8 % ) had these antibodies . 
-In test tube experiments , blood serum from both older and younger uninfected individuals with cross reactive antibodies could neutralise the new coronavirus . 
-That was not the case with serum from study participants who lacked these antibodies . 
-" Together , these findings may help explain higher Covid 19 susceptibility in older people and provide insight into whether pre established immunity to seasonal coronaviruses offers protection against SARS Co V 2 , " the publishers of the journal said in a statement . 
-The findings also suggest that targeting the S2 subunit on the coronavirus spike protein might be the basis for a drug or vaccine that works on multiple types of coronavirus . 

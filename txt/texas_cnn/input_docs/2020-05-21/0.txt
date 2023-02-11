@@ -1,9 +1,0 @@
-A series of US states have been combining two different types of coronavirus test results in their total numbers , potentially providing a muddled picture of the pandemic as the nation eases restrictions . 
-Virginia , Texas , Georgia , and Vermont have said they 've been adding two numbers to their daily totals : viral test results and antibody test results . 
-Viral tests are taken by nose swab or saliva sample , and look for direct evidence someone currently has Covid 19 . 
-Antibody tests use blood samples to look for biological signals that a person has been exposed to the virus in the past . 
-Why this is a problem : Combining the two types of tests overstates a state 's testing ability , a crucial metric as nearly all states ease coronavirus restrictions . 
-Experts have consistently emphasized that for states to reopen , there has to be adequate testing and tracing . 
-States ' response : Texas , Virginia and Vermont said they 've recognized the data issue and moved to fix it in the past few days . 
-Georgia health officials said they 've been adding both tests to their daily totals since April in line with the methodology from the Centers for Disease Control and Prevention . 
-Read more here : 

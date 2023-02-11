@@ -1,7 +1,0 @@
-The UK government has launched an investigation into a technical issue which resulted in almost 16,000 cases of coronavirus to go unreported , a Downing Street spokesperson has confirmed . 
-The Downing Street spokesperson said the investigation will " determine why the issue was not identified sooner . " 
-A spokesperson for Prime Minister Boris Johnson said the issued occurred in the " process that transfers positive test results into the reporting dashboards " and that additional contact tracers had been employed to deal with the backlog . 
-The error was first announced in a statement from Public Health England ( PHE ) on Sunday . 
-According to the statement , " a technical issue was identified overnight on Friday 2 October in the data load process that transfers COVID 19 positive lab results into reporting dashboards . " 
-The statement went on to say that PHE consequently " identified that 15,841 cases between 25 September and 2 October were not included in the reported daily COVID 19 cases . " 
-PHE alongside NHS Test and Trace then " worked to quickly resolve the issue and transferred all outstanding cases immediately into the NHS Test and Trace contact tracing system . " 

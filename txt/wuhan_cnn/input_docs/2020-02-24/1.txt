@@ -1,9 +1,0 @@
-China has spent decades nurturing its tech sector . 
-Now , faced with a massive public health crisis , Beijing is pushing its tech companies to join the fight against the novel coronavirus . 
-Tech giants have responded by deploying autonomous vehicles to bring supplies to medical workers , fitting drones with thermal cameras to improve detection of the virus and lending their computing power to help develop a vaccine . 
-Robots waiters : The food delivery giant Meituan Dianping introduced robots last week in some of its partners ' restaurants in Beijing to help bring food from kitchens to delivery workers , and to customers waiting for takeout . 
-Robot deliverymen : Chinese e commerce giant JD.com , meanwhile , enlisted self driving robots to bring goods to medical workers in the central Chinese city of Wuhan . 
-Cutting humans out of the equation has helped protect customers and employees , said Qi Kong , head of autonomous driving at JD Logistics . 
-And a startup , Shanghai TMIRob , is sending dozens of robots inside hospitals throughout Wuhan , according to Chinese state media . 
-There , they are spraying disinfectant in isolation wards , intensive care units and operating rooms . 
-Read more here about the tech being used to fight coronavirus . 

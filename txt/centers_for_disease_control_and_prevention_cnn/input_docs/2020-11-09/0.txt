@@ -1,8 +1,0 @@
-Nearly 10 % of patients treated in hospital for Covid 19 had to be readmitted within two months of being discharged , according to a new report from the US Centers for Disease Control and Prevention ( CDC ) . 
-Readmissions were more common among patients sent to a skilled nursing facility or those who needed home care after they were hospitalized , compared to patients who were sent home to care for themselves , the report -- published Monday in the Morbidity and Mortality Weekly Report -- found . 
-Almost 2 % of Covid 19 patients had multiple readmissions to the hospital . 
-Readmission was most common among people who were 65 or older , had underlying health conditions , or had been hospitalized three months before getting sick with Covid 19 . 
-White people were more likely than any other demographic to be readmitted to hospital . 
-The CDC noted these trends by examining 126,137 electronic health records between March and July . 
-Of those patients : 15 % died during their first trip to hospital 15 % were admitted to the intensive care unit 13 % needed a ventilator 4 % need noninvasive ventilation Researchers also found trends consistent with earlier studies of hospitalized Covid 19 patients . 
-More than 60 % of patients who were hospitalized had one of five chronic conditions : Nearly 30 % were obese or had diabetes More than 20 % had chronic kidney disease or chronic obstructive pulmonary disease ( COPD ) 16 % had heart failure 

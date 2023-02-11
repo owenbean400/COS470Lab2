@@ -1,7 +1,0 @@
-An official study of patients in the US city Atlanta has found that black patients are more likely to be hospitalised than white patients , highlighting racial disparities in the country ’s healthcare system . 
-Researchers from the Centers for Disease Control and Prevention ( CDC ) said about 79 % of black patients were hospitalised , against 13 % of white patients across six metropolitan hospitals and outpatient clinics between March and April 2020 . 
-The researchers found such an association even when they controlled for underlying conditions such as diabetes . 
-This suggested that other factors like healthcare access or the possibility of bias might explain the higher rates . 
-Hospitalised patients tended to be older , male , black , and have underlying conditions , said the researchers . 
-They added that black Americans were more likely to be frontline industry or essential workers , raising their risks for infection . 
-Apart from age , race and underlying conditions , lack of insurance , smoking and obesity were independently associated with the likelihood of hospitalisation for the 531 Atlanta patients studied , researchers said . 

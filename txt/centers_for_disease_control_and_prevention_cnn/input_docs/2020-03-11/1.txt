@@ -1,9 +1,0 @@
-The maker of a critical tool required to run the coronavirus test kit used in US public health labs is facing a surge in demand that is challenging its capacity to deliver the product , according to the company . 
-Qiagen , whose tool helps extract viral genetic information from patient samples , said in a tweet Tuesday that it has established a " task force " to " evaluate incoming orders in this period of extraordinary demand . " 
-A shortage of its products could threaten to further delay coronavirus testing across the country , because Qiagen ’s tools are required to run -- but not included in -- the coronavirus test kit distributed by the US Centers for Disease Control and Prevention ( CDC ) . 
-On Monday , the company said it had " not seen any near term impacts from the coronavirus outbreak on supplies of materials and components , " but it said that increasing demand " may lead to backorders with delayed delivery or reduced allocation of affected product . " 
-The tool is a necessary step in testing for the novel coronavirus ; it removes RNA , the genetic code of the virus , from a patient ’s throat swab or cough sample . 
-That RNA , extracted from a patient specimen , is then compared against snippets of the virus itself , determining whether a patient has been infected with the virus . 
-CDC Director Dr . Robert Redfield acknowledged the potential shortage of the tool on Tuesday in an interview with Politico . 
-The US Food and Drug Administration , which oversees laboratory tests in the US , said that a similar tool developed by another company , Roche , could be used in its place . 
-But that could require labs to acquire auxiliary equipment for Roche ’s platform and retrain staff who run the tests – leading to further delays . 

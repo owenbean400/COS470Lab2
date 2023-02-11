@@ -1,9 +1,0 @@
-The coronavirus epidemic is far from over in the United States , with just 4 % of Americans having been infected , according to a team of disease modelers at London 's Imperial College in the United Kingdom . 
-Even in the worst affected states , less than a quarter of the population has been infected , they wrote in a report , which was posted on the university 's website . 
-In New York , about 16.6 % of people have been infected , compared to about 1 % in California and less than 1 % in Maine , the researchers said . 
-" Our estimates suggest that the epidemic is not under control in much of the US , " they wrote , adding that " caution must be taken in loosening current restrictions if effective additional measures are not put in place . " 
-Only a few states appear to have epidemics under control . 
-The researchers measured this by looking at the virus ' reproduction rate -- a rate of 1 means each infected person is only transmitting the virus to one other person . 
-The higher the rate , the more people are getting infected . 
-The states that have a rate of less than 1 include Montana , Hawaii , Wyoming , Alaska , West Virginia , Vermont , Idaho , North Dakota and Maine . 
-States with the highest reproductions rates are Colorado , Arizona , Texas , Minnesota , Iowa , Illinois and Ohio , according to the researchers . 

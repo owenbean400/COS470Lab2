@@ -1,8 +1,0 @@
-The total number of lab confirmed cases of coronavirus in the UK has now passed 500,000 . 
-Boris Johnson said earlier on Sunday that there was " a failure in the counting system which has now been rectified " . 
-He told BBC One ’s Andrew Marr Show it was a " computing issue " and all those who had a positive test had been notified . 
-Michael Brodie , the interim chief executive at Public Health England , said the " technical issue " was identified overnight on Friday 2 October in the data load process that transfers Covid 19 positive lab results into reporting dashboards . 
-" After rapid investigation , we have identified that 15,841 cases between 25 September and 2 October were not included in the reported daily Covid 19 cases . 
-The majority of these cases occurred in most recent days . 
-Every one of these cases received their Covid 19 test result as normal and all those who tested positive were advised to self isolate . 
-NHS Test and Trace and PHE have worked to quickly resolve the issue and transferred all outstanding cases immediately into the NHS Test and Trace contact tracing system . " 

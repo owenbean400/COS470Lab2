@@ -1,6 +1,0 @@
-New York has added five states to its quarantine list meaning persons traveling from these states should now quarantine for 14 days upon arrival . 
-Those states are : Arizona Minnesota Nevada Rhode Island Wyoming New Jersey and Connecticut work in lockstep with New York and it is expected those states will announce the same additions to their quarantine lists . 
-Some context : The metric used to determine which states are added or removed is an area with a positive test rate higher than 10 per 100,000 over a seven day rolling average of an area with a 10 percent or higher positivity rate on a rolling average . 
-New York remains under one percent positivity rate at 0.89 % , according to a press release from the governor ’s office . 
-There were an additional 754 cases identified Monday and three deaths . 
-Remember : That number were released by the state ’s public health agency , and may not line up exactly in real time with CNN ’s database drawn from Johns Hopkins University and the Covid Tracking Project . 

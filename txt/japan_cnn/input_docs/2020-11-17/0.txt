@@ -1,8 +1,0 @@
-A store in Japan 's Osaka prefecture is experimenting with a new " clerk robot " that can detect if a customer is not wearing a mask . 
-The robot is designed to move around the store and provide customer service such as guiding customers to products , according to a news release from the developer , Advanced Telecommunications Research Institute International ( ATR ) . 
-It also uses an attached camera to monitor customers for " unsuitable actions " like not wearing a mask or social distancing . 
-ATR developed the robot in November , and is testing it at J League soccer club Cerezo Osaka 's mega store in Osaka . 
-The release added that robot development is essential for tasks because of labor shortages from a declining birthrate and ageing population in Japan . 
-" Demonstration experiments of a clerk robot that simultaneously provides customer service and alert service while moving in a small environment such as inside a store is the most advanced attempt in the world , " ATR said . 
-Japan reported 952 new Covid 19 cases on Monday after a run of seven consecutive days with more than 1,000 new infections . 
-The nationwide total stands at 120,038 . 

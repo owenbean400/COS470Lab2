@@ -1,9 +1,0 @@
-For the first time in years , Japan has the fastest supercomputer in the world and it 's being used to research the spread and treatment of the novel coronavirus . 
-Fugaku , which was developed by Fujitsu and government research institute Riken , ranked first in the Top500 list of global supercomputers , Fujitsu and Riken announced on Tuesday . 
-It marks the first time a Japanese system has taken the top slot since 2011 . 
-The Top500 measures benchmarks such as processing speed and the performance of computing used in artificial intelligence and deep learning . 
-Fugaku can perform more than 415 quadrillion ( or 415,000 trillion ) computations a second , making it 2.8 times faster than Summit , the supercomputer built by IBM which previously held the top spot . 
-How has it been used so far ? 
-The Japanese supercomputer is already being used on an experimental basis for research on Covid 19 , including on diagnostics , therapeutics , and simulations of the spread of the virus , Riken said in a statement in April . 
-Fugaku — which is another name for Mount Fuji — is scheduled to be operating at full capacity next year . 
-Read the full story here . 

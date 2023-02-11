@@ -1,9 +1,0 @@
-The number of coronavirus cases in the United States has reached 1,000 , according to a CNN tally . 
-The number of patients identified has doubled since Sunday . 
-Thirty one people have died . 
-Washington state remains the hardest hit , with 273 patients and 24 fatalities . 
-California and New York are the only other states with more than 100 cases , while Massachusetts is getting closer with 92 . 
-See here for a state by state breakdown . 
-You should know : While the numbers are noteworthy , they do not come as a complete surprise . 
-Viral outbreaks often increase exponentially -- not linearly or logarithmically -- if there is no immunization or cure because one patient can infect several others . 
-That is why public health officials are stressing the importance of contact tracing in stopping the coronavirus ' spread . 

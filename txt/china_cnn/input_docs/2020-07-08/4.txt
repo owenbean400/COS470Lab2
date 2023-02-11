@@ -1,8 +1,0 @@
-Coronavirus was probably spreading widely across the US in February , new modeling data suggests , and it only took a few imported cases from other countries to set off rapid spread inside the borders . 
-While direct imports from China and other countries may have been responsible for the early introduction of Covid 19 to the US , most spread was state to state , researchers led by a team at Northeastern University in Boston reported . 
-" We estimate widespread community transmission of SARS Co V 2 in February , 2020 , " a team led by Northeastern ’s Laboratory for the Modeling of Biological and Socio technical Systems wrote on Med Rxiv , a pre print server . 
-Their work has not been peer reviewed . 
-The US announced restrictions on travel from China on Jan . 31 . 
-The researchers say their modeling study suggests the restrictions came far too late . 
-" Importations from mainland China may be relevant in seeding the epidemic in January , but then play a small role in the COVID 19 expansion in the US because of the travel restrictions imposed to/from mainland China after January 23 , 2020 , " they wrote . 
-The model jibes with evidence from several studies that suggest there were already a significant number of infections in the US by the time the travel restrictions were announced on January 31 , the researchers wrote . 

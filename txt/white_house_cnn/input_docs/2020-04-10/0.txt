@@ -1,8 +1,0 @@
-The current tests for coronavirus infection and post recovery immunity are both imperfect , a top scientific advisory panel told the White House this week . 
-A committee of the National Academy of Sciences sent a letter to the White House on Wednesday , explaining that the coronavirus test sometimes misses positive cases . 
-One study missed 16 cases out of 51 coronavirus patients . 
-Tests based on relatively new CRISPR technology might be more accurate , but those tests are not currently available to patients , said the letter . 
-There is also uncertainty about whether people develop immunity after recovering from the coronavirus . 
-In a separate letter this week , scientists said that even if someone does develop antibodies against the coronavirus , it ’s unclear for how long they ’ll be immune or if they ’ll be immune at all . 
-And antibody tests -- which help determine whether someone has recovered and can go back to work -- are often of poor quality . 
-Results from antibody tests " should be viewed as suspect until rigorous controls are performed and performance characteristics described , as antibody detection methods can vary considerably , and most so far have not described well standardized controls , " the scientists wrote . 

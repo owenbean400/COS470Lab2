@@ -1,9 +1,0 @@
-The US Centers for Disease Control and Prevention dramatically expanded the testing criteria for the novel coronavirus today . 
-The CDC formally removed earlier restrictions that limited coronavirus testing of the general public to people in the hospital , unless they had a close contact with a confirmed coronavirus case . 
-According to the CDC , clinicians should now " use their judgment to determine if a patient has signs and symptoms compatible with COVID 19 and whether the patient should be tested . " 
-The new criteria formalizes Vice President Mike Pence ’s announcement , made Tuesday night , that " any American can be tested ( for coronavirus ) , no restrictions , subject to doctors ’ orders . " 
-Unless a patient had close contact with a confirmed coronavirus patient , the earlier criteria limited testing to people who had been hospitalized with both a fever and respiratory symptoms . 
-Some context : Questions remain about whether the United States can meet a possible surge in testing demand . 
-Two coronavirus tests in the United States currently have Food and Drug Administration emergency use authorizations and are in use nationwide . 
-These include CDC test kits , which have been distributed to public health laboratories across the country , and another test designed and used by New York state . 
-Under rules issued Feb . 29 , the FDA is also allowing hospitals , private companies and laboratories to develop other diagnostic tests that can be used before the FDA issues an emergency use authorization . 

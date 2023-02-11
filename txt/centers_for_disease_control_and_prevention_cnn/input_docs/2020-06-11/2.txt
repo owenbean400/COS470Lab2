@@ -1,9 +1,0 @@
-The latest coronavirus forecast by the Institute for Health Metrics and Evaluation ( IHME ) at the University of Washington takes into account seasonality predictions . 
-Late yesterday , IHME released a " third generation model " which forecasted nearly 170,000 deaths from coronavirus in the United States by October 1 . 
-" The increase in daily deaths really starts to gather more momentum from mid September , onwards , " Murray said . 
-Contributing to that increase are two main factors : " The steady rise in contact rates , the steady rise in mobility and the likely continued reaction of mandates over the course of the summer , combined with the increasing clear signal that seasonality is important , " he said . 
-What the model suggests : The closely watched model — which is currently featured on the US Centers for Disease Control and Prevention website — said the summer should remain in plateau . 
-" We think , because there ’s still some progressive protective effect from seasonality between now and August , that even if there are increases , they will not turn into exponential growth , " Murray said . 
-" But once the protective effect of seasonality goes away , those same phenomenon may turn into much more rapid increases , " he added . 
-The " biggest and most difficult choice " states will face in the fall is managing a potential second shutdown , Murray said . 
-" Because of quarantine fatigue , because of the economic effects of quarantine , another round of shutdowns might have even larger effects on businesses that may be on the edge of not being able to stay solvent , " he said . 

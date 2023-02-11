@@ -1,8 +1,0 @@
-Some antibody tests , which check for prior Covid 19 infection , had high rates of false positives in screenings performed by a consortium of California laboratories , according to a recently released report . 
-A false positive means someone would be told they ’d already had coronavirus when they had not -- a potential danger as people could then think they were immune to the virus when they ’re actually still vulnerable . 
-Of the 12 antibody tests that were studied by the COVID 19 Testing Project , one of the tests gave false positives more than 15 % of the time , or in about one out of seven samples . 
-Three other tests gave false positives more than 10 % of the time . 
-" That ’s terrible . 
-That ’s really terrible , " said Dr . Caryn Bern , one of the authors of the study that looked at the 12 tests . 
-She said while it ’s unrealistic to think all tests will be 100 % accurate all the time , their false positive rates should be 5 % or lower , or ideally 2 % or lower . 
-The COVID 19 Testing Project is a consortium of researchers and physicians at the University of California San Francisco , the University of California Berkeley , the Chan Zuckerberg Biohub , and the Innovative Genomics Institute . 

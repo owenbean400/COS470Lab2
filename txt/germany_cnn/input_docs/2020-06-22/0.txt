@@ -1,7 +1,0 @@
-The reproduction number of the coronavirus has risen sharply in Germany , said the country 's center for disease control , the Robert Koch Institute , on Sunday . 
-This figure , also called the R number , stands at 2.88 in Germany . 
-An R number of 1 means that each person with coronavirus infects one other person on average . 
-German Chancellor Angela Merkel has repeatedly warned that the country must keep the R number below 1 to contain the disease , and that a rise in the rate could see restrictions reinforced . 
-This massive leap in the national R number is due to a local outbreak at a meat processing plant in the town of Gutersloh , said the Robert Koch Institute . 
-There are now at least 1,331 positive cases at the factory , said town authorities on Sunday . 
-" Since case numbers in Germany are generally low , these local outbreaks have a relatively strong influence on the value of the reproduction number , " the Robert Koch Institute said in its daily report . 

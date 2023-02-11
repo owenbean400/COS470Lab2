@@ -1,6 +1,0 @@
-Imagine a smartphone app that has access to your medical records and assigns you a daily score based on your preconditions , recent checkups and lifestyle habits -- how much you 've drunk , smoked , exercised and slept on any given day can all affect your points total , boosting or lowering your ranking . 
-That " health score " is then embedded in a digital QR code accessible on your cell phone , ready to be scanned whenever needed . 
-This is what the city government of Hangzhou in eastern China has envisioned for its 10 million residents , inspired by a " health code " system it adopted during the Covid 19 pandemic to profile people based on their risk of infection . 
-Across the globe , governments have stepped up the collection of personal data in their fight against the novel coronavirus , which has killed more than 346,000 people and infected close to 5.5 million , according to data collected by Johns Hopkins University . 
-But there are also fears that some of these extraordinary measures could be here to stay even after the public health crisis is over , posing a long term threat to privacy . 
-Read more : 

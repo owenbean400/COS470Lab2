@@ -1,6 +1,0 @@
-The US Food and Drug Administration said Wednesday it has issued an emergency use authorization ( EUA ) to Illumina , Inc . for the first Covid 19 diagnostic test that also uses next generation genetic sequencing technology to look for changes in the virus . 
-Illumina , a company that focuses on genomic sequencing , has designed its COVIDSeq test for use on swabs taken from the mouth or nose , as well as samples taken from further down the respiratory tract . 
-It can diagnose a patient with coronavirus and also gather some information about the particular sequence of the virus infecting the patient , which in turn is useful for research tracking the pandemic . 
-Several teams of scientists have been gathering and sharing sequences of the virus , which can be used as a kind of fingerprint to see where particular versions of the virus may have originated . 
-For instance , these sequencing studies have shown an outbreak in New York City was seeded by viruses that were also circulating in Europe , while another analysis showed small outbreaks across California were often set off by individual travelers and not by spread from within the state . 
-None of the genetic studies has shown that the virus is mutating in a way that makes it more or less harmful . 

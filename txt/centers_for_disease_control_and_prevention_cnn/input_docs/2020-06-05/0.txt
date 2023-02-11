@@ -1,9 +1,0 @@
-A forecast published by the US Centers for Disease Control and Prevention now projects more than 127,000 coronavirus deaths in the United States by June 27 . 
-The ensemble forecast relies on 20 individual forecasts from outside institutions and researchers . 
-The new projections , published Thursday , forecast 127,230 deaths by June 27 , with a possible range of 118,450 to 143,340 deaths . 
-Unlike some individual models , the CDC ’s ensemble forecast only offers projections for the next month . 
-The previous ensemble forecast , published last Thursday , projected about 123,200 deaths by June 20 . 
-The projections are published on the CDC ’s " COVID 19 Forecasts " page , but they ’re also featured on the agency ’s " COVID Data Tracker . " 
-On both sites , users can view state level ensemble forecasts as well . 
-" Ensemble forecasts indicate that the rate of newly reported deaths will vary among the states , " the CDC says on its forecasts page . 
-" In some states , cumulative deaths will increase at roughly the same rate as they have in recent weeks , while other states are likely to experience only a small number of additional deaths from COVID 19 . " 

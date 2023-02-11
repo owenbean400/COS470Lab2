@@ -1,6 +1,0 @@
-The European Commission has hailed the success of its cross border Covid 19 contact tracing system . 
-In a tweet on Sunday , the Commission highlighted the work of Germany , Ireland , Italy , Latvia and Spain in using the system to ensure that " their contact and warning apps work across borders . " 
-As Europe continues to record significant coronavirus case numbers , there has been a push for greater cooperation between states regarding contact tracing . 
-A map accompanying the tweet depicted the status of contact tracing systems in place throughout the EU . 
-When an app user logs that they have tested positive for Covid 19 , their phone only sends the user ’s anonymized ID to a central database and it is the phone itself that downloads the database and carries out contact matching . 
-Presently , only decentralized apps work across borders using the EU system . 

@@ -1,8 +1,0 @@
-People in New York City , Seattle , New Orleans and San Francisco are listening to orders to stay home , according to a report issued Monday by the US Centers for Disease Control and Prevention . 
-" When you put in these social distancing measures , they do seem to work , " said study coauthor Kathleen Ethier , leader of the CDC 's community mitigation task force for the Covid 19 response . 
-While there are early indications that social distancing has helped slow the spread of the coronavirus , experts warn that if people do not continue to adhere to the orders , the virus could surge again in some areas . 
-The CDC report looked at data in New York City , Seattle , New Orleans and San Francisco , four cities with substantial numbers of coronavirus patients early in the outbreak that mandated people stay at home in mid - to late March . 
-The report found that , in all four cities , the percentage leaving home was close to 80 % on February 26 . 
-By April 1 , that declined between 20 % and 40 % in each city , with mobility decreasing each time a new social distancing order was issued , starting with bans on mass gatherings , and then later restaurant and school closures and finally stay at home orders . 
-The CDC tracked mobility by looking at whether devices such as cell phones were brought more than 500 feet from the places they usually spend the night . 
-Using anonymized publicly available data from a company called Safe Graph , the CDC looked at phones , tablets and watches belonging to between 3.6 % and 6.4 % of the population in each city . 

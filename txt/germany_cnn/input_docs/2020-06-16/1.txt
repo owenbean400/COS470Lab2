@@ -1,6 +1,0 @@
-The German government 's coronavirus warning app has gone live . 
-The app uses Bluetooth technology and is designed to measure whether cell phone users have breached a 2 meter proximity for a long period of time . 
-If a user has tested positive and shared that information with the app , it will inform other users nearby of their diagnosis . 
-But for the app to succeed , Germany 's government will have to overcome a widespread reluctance to share data with authorities . 
-The country has not made using the app mandatory for its citizens . 
-Officials have also said that contact information will not be shared centrally , a point of concern for Germans with privacy concerns over the technology . 

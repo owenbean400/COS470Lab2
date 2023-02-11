@@ -1,6 +1,0 @@
-Germany 's new coronavirus smartphone app has been downloaded 9.6 million times since it was launched on Tuesday , according to government spokeswoman Ulrike Demmer . 
-That ’s the equivalent of about 12 % of the country ’s population , although it ’s unknown whether some people have downloaded it on multiple phones . 
-The new tracing app is designed to speedily track down new clusters of coronavirus infections . 
-Software maker SAP and telecommunications company Deutsche Telekom helped develop the service on behalf of the German government . 
-In countries around the world , many of these apps have been delayed as governments struggle to roll out complex new systems in record time , and some of those that have been launched are not being downloaded by enough people to have a major effect . 
-The UK yesterday ditched its own virus app for a version based on a system created by Google and Apple . 
